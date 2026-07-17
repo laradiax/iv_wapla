@@ -1,0 +1,32 @@
+﻿criterio_numero,criterio_nome,tentativas,resolvidos,taxa_sucesso_%
+17,Aderência ao nível de Bloom declarado,151,49,32.5
+9,Evitar pistas verbais (repetição de palavras do enunciado),84,28,33.3
+19,Distribuição equilibrada do gabarito no conjunto,77,77,100.0
+6,Gabarito não deve se destacar por tamanho,43,28,65.1
+7,Distratores devem ser plausíveis,42,34,81.0
+11,Comando do enunciado deve ser explícito,39,31,79.5
+15,Texto-base deve ser necessário,22,12,54.5
+16,Alternativas devem tratar do conteúdo do item,21,6,28.6
+5,Paralelismo: extensão homogênea,11,11,100.0
+12,Evitar lacunas no meio do enunciado,10,10,100.0
+7,Distratores devem ser plausíveis (suavizar termos absolutos),8,5,62.5
+7,Distratores devem ser plausíveis (remoção de termos absolutos),5,5,100.0
+18,Conformidade com o tipo de questão declarado,4,4,100.0
+3,Gabarito não pode repetir um distrator,4,2,50.0
+2,Alternativas não podem ser equivalentes,3,1,33.3
+7,Distratores devem ser plausíveis (sem termos absolutos),3,2,66.7
+9,Evitar pistas verbais (palavra rara do enunciado só no gabarito),1,0,0.0
+7,Distratores devem ser plausíveis (suavizar termos absolutos/generalizações),1,1,100.0
+7,Distratores plausíveis,1,1,100.0
+5,Paralelismo — extensão homogênea das alternativas,1,1,100.0
+4,Correção factual do gabarito,1,1,100.0
+6,Gabarito não deve se destacar por pistas formais (termos absolutos nos distratores),1,1,100.0
+7,Distratores devem ser plausíveis (remover termos absolutos),1,1,100.0
+12,Conectar o texto-base ao enunciado,1,1,100.0
+10,Evitar enunciado em formulação negativa / clareza linguística,1,1,100.0
+10,Evitar enunciado em formulação negativa,1,1,100.0
+9,Evitar pistas verbais (termos absolutos),1,1,100.0
+9,Evitar pistas verbais (repetição de palavras do enunciado / contraste formal),1,0,0.0
+9,Evitar pistas verbais (repetição/convergência de termos),1,1,100.0
+12,Remover lacuna do enunciado,1,1,100.0
+19,Distribuição equilibrada do gabarito no conjunto (reposicionamento),1,1,100.0

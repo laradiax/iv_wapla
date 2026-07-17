@@ -1,0 +1,351 @@
+[
+  {
+    "question_id": 615,
+    "rodada": 1,
+    "timestamp": "2026-07-16T18:03:44.275050-03:00",
+    "item": {
+      "question_id": "615",
+      "question_type": "Múltipla Escolha Simples",
+      "discipline": "geografia economica",
+      "taxonomy_level": "Avaliar",
+      "base_text": "Uma professora de Geografia Econômica apresenta aos estudantes dois textos de referência. No primeiro, a economia é definida a partir de sua etimologia grega, como administração dos recursos da casa (oikos + nomos), voltada ao estudo da produção, distribuição e consumo de bens e serviços. No segundo, a Geografia Econômica é tratada como um campo que investiga como essas atividades se organizam no espaço e como diferentes territórios condicionam e são condicionados pelos processos econômicos. Em seguida, ela destaca que, na consolidação desse sub-ramo, autores como Alfred Weber e August Lösch contribuíram para a localização industrial e a organização espacial da atividade econômica, enquanto, no Brasil, Milton Santos é referência central para a compreensão crítica do espaço e dos circuitos da economia.",
+      "stem": "Considerando o texto-base e a construção histórica da Geografia Econômica, qual interpretação é mais adequada sobre a relação entre Economia e Geografia Econômica?",
+      "statement_i": NaN,
+      "statement_ii": NaN,
+      "statement_iii": NaN,
+      "statement_iv": NaN,
+      "assertion_i": NaN,
+      "assertion_ii": NaN,
+      "option_a": "A Economia estuda prioritariamente a gestão doméstica dos recursos, enquanto a Geografia Econômica se limita a descrever paisagens naturais onde ocorrem trocas comerciais.",
+      "option_b": "A Geografia Econômica constitui um campo derivado da Economia, sem objeto próprio, voltado apenas a aplicar teorias de mercado em mapas temáticos.",
+      "option_c": "A Economia analisa os fenômenos de produção, distribuição e consumo, enquanto a Geografia Econômica examina a espacialização desses fenômenos e sua relação com território, lugar e redes, tendo em autores como Weber, Lösch e Milton Santos marcos importantes.",
+      "option_d": "A Geografia Econômica surgiu exclusivamente com a globalização contemporânea e substituiu a Economia Política ao tratar apenas da circulação financeira internacional.",
+      "option_e": "A Geografia Econômica é um ramo da Geografia Física que explica a localização das atividades produtivas pela ação exclusiva do clima e do relevo.",
+      "correct_option": "C"
+    },
+    "diagnostico_codigo": {
+      "o_que_melhorar": [
+        "[FE] encurtar o gabarito (mais longo que os distratores)",
+        "[FE] suavizar termos absolutos nos distratores",
+        "[FE] eliminar pista: palavra do enunciado só no gabarito",
+        "[FE] explicitar o comando do enunciado"
+      ],
+      "n_melhorias": 4,
+      "descartar_auto": false
+    },
+    "avaliacao_llm": {
+      "question_id": 615,
+      "resolucao_independente.tarefa_identificada": "Escolher a interpretação mais adequada sobre a relação entre Economia e Geografia Econômica, com base no texto-base e na construção histórica da disciplina.",
+      "resolucao_independente.alternativa_correta_observada": "C",
+      "resolucao_independente.gabarito_declarado": "C",
+      "resolucao_independente.situacao_do_gabarito": "GABARITO_CORRETO_UNICO",
+      "resolucao_independente.justificativa_curta": "A alternativa C é a única que reflete fielmente o conteúdo do texto-base, distinguindo corretamente o foco da Economia (produção, distribuição e consumo) do foco da Geografia Econômica (espacialização desses fenômenos e relação com o território), além de citar corretamente os autores mencionados.",
+      "bloom.nivel_declarado": "Avaliar",
+      "bloom.nivel_observado": "ANALISAR",
+      "bloom.alinhamento": "NAO",
+      "bloom.evidencia": "O enunciado pede a interpretação 'mais adequada', mas a resolução exige decompor as definições e comparar as relações conceituais entre Economia e Geografia Econômica apresentadas no texto-base, sem critérios explícitos para um julgamento avaliativo.",
+      "bloom.justificativa": "Para responder, o estudante precisa analisar as definições e relações conceituais fornecidas no texto-base e compará-las com as alternativas. Não há critérios explícitos fornecidos para que o estudante faça um julgamento de valor (avaliar), tornando a operação cognitiva mínima mais próxima de 'Analisar' do que de 'Avaliar'.",
+      "criterios.paralelismo.status": "OK",
+      "criterios.paralelismo.evidencia": "Todas as alternativas completam a estrutura 'A [Economia/Geografia Econômica] ...' com estruturas sintáticas equivalentes e nível de detalhe semelhante.",
+      "criterios.paralelismo.justificativa": "As cinco alternativas apresentam estrutura gramatical consistente (sujeito + predicado), pertencem ao mesmo campo semântico (relação entre Economia e Geografia Econômica) e não se sobrepõem.",
+      "criterios.coerencia_conteudo.status": "OK",
+      "criterios.coerencia_conteudo.evidencia": "O texto-base define Economia e Geografia Econômica, menciona autores como Weber, Lösch e Milton Santos, e todas as alternativas tratam da relação entre essas disciplinas.",
+      "criterios.coerencia_conteudo.justificativa": "Texto-base, enunciado, alternativas e gabarito tratam coerentemente da relação conceitual entre Economia e Geografia Econômica, com referência aos autores citados no texto-base.",
+      "criterios.corretude_unicidade_gabarito.status": "GABARITO_CORRETO_UNICO",
+      "criterios.corretude_unicidade_gabarito.evidencia": "A alternativa C reproduz fielmente as definições e referências do texto-base, enquanto as demais contêm afirmações contraditórias com o texto (A: 'limita a descrever paisagens naturais'; B: 'sem objeto próprio'; D: 'surgiu exclusivamente com a globalização contemporânea'; E: 'ramo da Geografia Física').",
+      "criterios.corretude_unicidade_gabarito.justificativa": "Apenas a alternativa C é defensável com base no texto-base. As demais alternativas contêm erros factuais e conceituais que as tornam incompatíveis com as informações fornecidas.",
+      "criterios.opiniao_subjetividade.status": "PROBLEMA",
+      "criterios.opiniao_subjetividade.local_do_problema": "enunciado",
+      "criterios.opiniao_subjetividade.evidencia": "'qual interpretação é mais adequada'",
+      "criterios.opiniao_subjetividade.justificativa": "O enunciado utiliza a expressão 'mais adequada', que sugere um julgamento de valor sem fornecer critérios explícitos para a avaliação, introduzindo subjetividade na tarefa.",
+      "criterios.convergencia_pistas.status": "OK",
+      "criterios.convergencia_pistas.alternativa_favorecida": "Nenhuma",
+      "criterios.convergencia_pistas.evidencia": "Nenhuma das alternativas se destaca por ser a mais longa, mais completa ou por reunir elementos das demais de forma óbvia.",
+      "criterios.convergencia_pistas.justificativa": "A alternativa C é a mais completa, mas isso decorre da necessidade de precisão conceitual, não de uma pista formal artificial. As demais alternativas contêm erros claros que não permitem identificar o gabarito apenas por comparação formal entre opções.",
+      "criterios.plausibilidade_distratores.status_geral": "OK",
+      "criterios.plausibilidade_distratores.por_alternativa.A.papel": "distrator",
+      "criterios.plausibilidade_distratores.por_alternativa.A.plausivel": "SIM",
+      "criterios.plausibilidade_distratores.por_alternativa.A.erro_tipico": "Confundir Geografia Econômica com Geografia Física/descritiva.",
+      "criterios.plausibilidade_distratores.por_alternativa.A.justificativa": "Estudantes com compreensão parcial podem associar Geografia à descrição de paisagens, ignorando o aspecto espacial-econômico enfatizado no texto-base.",
+      "criterios.plausibilidade_distratores.por_alternativa.B.papel": "distrator",
+      "criterios.plausibilidade_distratores.por_alternativa.B.plausivel": "SIM",
+      "criterios.plausibilidade_distratores.por_alternativa.B.erro_tipico": "Reduzir a Geografia Econômica a mera aplicação cartográfica da Economia.",
+      "criterios.plausibilidade_distratores.por_alternativa.B.justificativa": "Reflete a visão simplista de que a Geografia Econômica não possui objeto próprio, erro conceitual plausível para iniciantes na disciplina.",
+      "criterios.plausibilidade_distratores.por_alternativa.C.papel": "gabarito",
+      "criterios.plausibilidade_distratores.por_alternativa.C.plausivel": "NAO_AVALIAVEL",
+      "criterios.plausibilidade_distratores.por_alternativa.C.erro_tipico": NaN,
+      "criterios.plausibilidade_distratores.por_alternativa.C.justificativa": "Alternativa correta, não se aplica avaliação de plausibilidade como distrator.",
+      "criterios.plausibilidade_distratores.por_alternativa.D.papel": "distrator",
+      "criterios.plausibilidade_distratores.por_alternativa.D.plausivel": "SIM",
+      "criterios.plausibilidade_distratores.por_alternativa.D.erro_tipico": "Associar a origem da Geografia Econômica exclusivamente à globalização contemporânea.",
+      "criterios.plausibilidade_distratores.por_alternativa.D.justificativa": "Estudantes podem confundir o renascimento ou maior visibilidade da disciplina na era da globalização com sua origem histórica, especialmente diante da menção a autores clássicos no texto-base.",
+      "criterios.plausibilidade_distratores.por_alternativa.E.papel": "distrator",
+      "criterios.plausibilidade_distratores.por_alternativa.E.plausivel": "SIM",
+      "criterios.plausibilidade_distratores.por_alternativa.E.erro_tipico": "Confundir Geografia Econômica com Geografia Física, atribuindo localização industrial apenas a fatores naturais.",
+      "criterios.plausibilidade_distratores.por_alternativa.E.justificativa": "Reflete a concepção determinista geográfica, historicamente superada, mas ainda plausível como erro de estudantes em formação inicial.",
+      "criterios.plausibilidade_distratores.sugestao_correcao": "Os distratores são conceitualmente plausíveis e bem construídos. Não há necessidade de correção significativa nos distratores.",
+      "criterios.ideia_central_enunciado.status": "OK",
+      "criterios.ideia_central_enunciado.evidencia": "'qual interpretação é mais adequada sobre a relação entre Economia e Geografia Econômica?'",
+      "criterios.ideia_central_enunciado.justificativa": "O enunciado apresenta uma pergunta clara e focalizada, permitindo ao estudante compreender a tarefa antes de ler as alternativas.",
+      "criterios.adequacao_nivel_ensino.status": "NAO_AVALIAVEL",
+      "criterios.adequacao_nivel_ensino.evidencia": "Dados insuficientes",
+      "criterios.adequacao_nivel_ensino.justificativa": "Não há informação sobre o nível de ensino ou série/ano a que o item se destina, impossibilitando a avaliação de adequação ao público-alvo.",
+      "criterios.clareza_linguistica.status": "OK",
+      "criterios.clareza_linguistica.evidencia": "Linguagem clara, sem ambiguidade, negações excessivas ou termos vagos. Ex: 'A Economia analisa os fenômenos de produção, distribuição e consumo, enquanto a Geografia Econômica examina a espacialização desses fenômenos...'",
+      "criterios.clareza_linguistica.justificativa": "O enunciado e as alternativas utilizam linguagem técnica adequada e compreensível para o contexto disciplinar, sem construções truncadas ou redundantes.",
+      "criterios.termos_absolutos_generalizacoes.status": "PROBLEMA",
+      "criterios.termos_absolutos_generalizacoes.local_do_problema": "alternativas",
+      "criterios.termos_absolutos_generalizacoes.expressao_identificada": "limita, apenas, exclusivamente, sem objeto próprio, ação exclusiva",
+      "criterios.termos_absolutos_generalizacoes.evidencia": "A: 'se limita a descrever'; B: 'sem objeto próprio, voltado apenas a aplicar'; D: 'surgiu exclusivamente com a globalização'; E: 'ação exclusiva do clima e do relevo'.",
+      "criterios.termos_absolutos_generalizacoes.justificativa": "Várias alternativas utilizam termos absolutos ('limita', 'apenas', 'exclusivamente', 'sem objeto próprio') que as tornam obviamente falsas por generalização indevida, facilitando a eliminação por pista formal em vez de exigir análise conceitual profunda.",
+      "sintese.principais_problemas": "['Desalinhamento entre o nível de Bloom declarado (Avaliar) e o nível observado (Analisar)', \"Uso de expressão subjetiva ('mais adequada') no enunciado sem critérios explícitos\", 'Presença de termos absolutos e generalizantes nas alternativas incorretas que facilitam a eliminação por pista formal']",
+      "sintese.tags_de_erro": "['BLOOM_DESALINHADO', 'SUBJETIVIDADE_ENUNCIADO', 'GENERALIZACAO_EXCESSIVA']",
+      "sintese.decisao_recomendada": "REVISAR",
+      "sintese.justificativa_final": "O item possui gabarito correto e único, com distratores plausíveis e boa coerência geral. Contudo, requer revisão para: (1) ajustar o nível de Bloom para 'Analisar' ou reformular o enunciado com critérios explícitos para justificar 'Avaliar'; (2) remover a expressão subjetiva 'mais adequada' do enunciado; e (3) atenuar os termos absolutos nas alternativas incorretas para evitar que a eliminação por pista formal substitua a análise conceitual.",
+      "resolucao_independente.situacao_do_gabararito": NaN
+    },
+    "avaliacao_origem": "cache",
+    "erro_avaliacao_llm": null,
+    "criterios_ativos": [
+      6,
+      7,
+      9,
+      11,
+      17
+    ],
+    "correcao": {
+      "id": "615",
+      "item_corrigido": {
+        "question_type": "Múltipla Escolha Simples",
+        "discipline": "geografia economica",
+        "taxonomy_level": "Avaliar",
+        "base_text": "Uma professora de Geografia Econômica apresenta aos estudantes dois textos de referência. No primeiro, a economia é definida a partir de sua etimologia grega, como administração dos recursos da casa (oikos + nomos), voltada ao estudo da produção, distribuição e consumo de bens e serviços. No segundo, a Geografia Econômica é tratada como um campo que investiga como essas atividades se organizam no espaço e como diferentes territórios condicionam e são condicionados pelos processos econômicos. Em seguida, ela destaca que, na consolidação desse sub-ramo, autores como Alfred Weber e August Lösch contribuíram para a localização industrial e a organização espacial da atividade econômica, enquanto, no Brasil, Milton Santos é referência central para a compreensão crítica do espaço e dos circuitos da economia.",
+        "stem": "Considerando o texto-base e a construção histórica da Geografia Econômica, avalie as interpretações a seguir sobre a relação entre Economia e Geografia Econômica e selecione a mais apropriada.",
+        "statement_i": "",
+        "statement_ii": "",
+        "statement_iii": "",
+        "statement_iv": "",
+        "assertion_i": "",
+        "assertion_ii": "",
+        "option_a": "A Economia foca na gestão dos recursos, enquanto a Geografia Econômica se restringe à descrição de paisagens naturais onde ocorrem trocas comerciais.",
+        "option_b": "A Geografia Econômica é um campo derivado da Economia, sem objeto próprio, que apenas aplica teorias de mercado em mapas temáticos.",
+        "option_c": "A Economia analisa produção, distribuição e consumo; a Geografia Econômica examina a espacialização desses fenômenos e sua relação com território, lugar e redes, com marcos em Weber, Lösch e Milton Santos.",
+        "option_d": "A Geografia Econômica surgiu apenas com a globalização contemporânea e passou a tratar exclusivamente da circulação financeira internacional.",
+        "option_e": "A Geografia Econômica é um ramo da Geografia Física que explica a localização das atividades produtivas somente pela ação do clima e do relevo.",
+        "correct_option": "C"
+      },
+      "resolucao_independente": {
+        "alternativa_correta_apos_correcao": "C",
+        "justificativa_curta": "A alternativa C é a única que corretamente diferencia o escopo da Economia (produção, distribuição e consumo) do da Geografia Econômica (espacialização desses fenômenos e relação com o território), além de citar corretamente os autores mencionados no texto-base."
+      },
+      "alteracoes": [
+        {
+          "criterio_numero": 11,
+          "criterio_nome": "Comando do enunciado deve ser explícito",
+          "eixo": "FE",
+          "fonte_diagnostico": "codigo e LLM",
+          "problema_original": "O enunciado original ('qual interpretação é mais adequada...') era considerado pouco explícito e subjetivo, sem instruir claramente a operação a ser realizada pelo estudante.",
+          "acao_realizada": "O enunciado foi reescrito para 'avalie as interpretações a seguir sobre a relação entre Economia e Geografia Econômica e selecione a mais apropriada.', tornando o comando explícito e alinhado ao nível de Bloom Avaliar."
+        },
+        {
+          "criterio_numero": 17,
+          "criterio_nome": "Aderência ao nível de Bloom declarado",
+          "eixo": "AP",
+          "fonte_diagnostico": "LLM",
+          "problema_original": "O enunciado original exigia apenas análise (decompor definições e comparar relações), mas o nível declarado era Avaliar.",
+          "acao_realizada": "O verbo do enunciado foi alterado para 'avalie', exigindo explicitamente um julgamento de valor fundamentado sobre as interpretações apresentadas, o que corresponde ao nível Avaliar da taxonomia de Bloom."
+        },
+        {
+          "criterio_numero": 6,
+          "criterio_nome": "Gabarito não deve se destacar por tamanho",
+          "eixo": "FE",
+          "fonte_diagnostico": "codigo",
+          "problema_original": "A alternativa C (gabarito) era consideravelmente mais longa e detalhada que os distratores, o que poderia servir como pista formal.",
+          "acao_realizada": "A alternativa C foi encurtada e simplificada, removendo redundâncias ('fenômenos de', 'tendo em... marcos importantes') para aproximar sua extensão à dos distratores."
+        },
+        {
+          "criterio_numero": 7,
+          "criterio_nome": "Distratores devem ser plausíveis (remoção de termos absolutos)",
+          "eixo": "FE",
+          "fonte_diagnostico": "codigo",
+          "problema_original": "Os distratores continham termos absolutos como 'se limita', 'apenas', 'exclusivamente' e 'sem objeto próprio', o que os tornava obviamente falsos e pouco plausíveis.",
+          "acao_realizada": "Foram feitas substituições mínimas para suavizar os absolutos: 'se limita' por 'se restringe', 'exclusivamente' por 'apenas' (no distrator D, reorganizando a frase para soar menos categórico) e removendo 'sem objeto próprio' do distrator B, que foi reescrito para 'que apenas aplica teorias...'."
+        },
+        {
+          "criterio_numero": 9,
+          "criterio_nome": "Evitar pistas verbais (repetição de palavras do enunciado)",
+          "eixo": "FE",
+          "fonte_diagnostico": "codigo",
+          "problema_original": "A palavra 'interpretação', presente no enunciado, aparecia apenas na alternativa correta (C) como atalho de resposta.",
+          "acao_realizada": "A palavra 'interpretação' foi removida do corpo da alternativa C durante o processo de encurtamento do gabarito, eliminando a pista verbal."
+        }
+      ],
+      "criterios_ja_ok_preservados": [
+        11,
+        17,
+        6,
+        7,
+        9
+      ],
+      "alteracoes_fora_do_escopo": "Nenhuma",
+      "observacoes_finais": "As correções focaram estritamente nos problemas apontados pelo diagnóstico objetivo e pedagógico. O comando do enunciado foi ajustado para refletir a ação de 'avaliar', alinhando-se ao nível de Bloom declarado. O gabarito foi encurtado para evitar viés de tamanho, e os distratores tiveram seus termos absolutos suavizados para manter a plausibilidade sem alterar o conteúdo conceitual original do item."
+    },
+    "status": "CORRIGIDO"
+  },
+  {
+    "question_id": 615,
+    "rodada": 2,
+    "timestamp": "2026-07-16T18:05:41.785269-03:00",
+    "item": {
+      "question_id": "615",
+      "question_type": "Múltipla Escolha Simples",
+      "discipline": "geografia economica",
+      "taxonomy_level": "Avaliar",
+      "base_text": "Uma professora de Geografia Econômica apresenta aos estudantes dois textos de referência. No primeiro, a economia é definida a partir de sua etimologia grega, como administração dos recursos da casa (oikos + nomos), voltada ao estudo da produção, distribuição e consumo de bens e serviços. No segundo, a Geografia Econômica é tratada como um campo que investiga como essas atividades se organizam no espaço e como diferentes territórios condicionam e são condicionados pelos processos econômicos. Em seguida, ela destaca que, na consolidação desse sub-ramo, autores como Alfred Weber e August Lösch contribuíram para a localização industrial e a organização espacial da atividade econômica, enquanto, no Brasil, Milton Santos é referência central para a compreensão crítica do espaço e dos circuitos da economia.",
+      "stem": "Considerando o texto-base e a construção histórica da Geografia Econômica, avalie as interpretações a seguir sobre a relação entre Economia e Geografia Econômica e selecione a mais apropriada.",
+      "statement_i": "",
+      "statement_ii": "",
+      "statement_iii": "",
+      "statement_iv": "",
+      "assertion_i": "",
+      "assertion_ii": "",
+      "option_a": "A Economia foca na gestão dos recursos, enquanto a Geografia Econômica se restringe à descrição de paisagens naturais onde ocorrem trocas comerciais.",
+      "option_b": "A Geografia Econômica é um campo derivado da Economia, sem objeto próprio, que apenas aplica teorias de mercado em mapas temáticos.",
+      "option_c": "A Economia analisa produção, distribuição e consumo; a Geografia Econômica examina a espacialização desses fenômenos e sua relação com território, lugar e redes, com marcos em Weber, Lösch e Milton Santos.",
+      "option_d": "A Geografia Econômica surgiu apenas com a globalização contemporânea e passou a tratar exclusivamente da circulação financeira internacional.",
+      "option_e": "A Geografia Econômica é um ramo da Geografia Física que explica a localização das atividades produtivas somente pela ação do clima e do relevo.",
+      "correct_option": "C"
+    },
+    "diagnostico_codigo": {
+      "o_que_melhorar": [
+        "[FE] encurtar o gabarito (mais longo que os distratores)",
+        "[FE] suavizar termos absolutos nos distratores",
+        "[FE] eliminar pista: palavra do enunciado só no gabarito"
+      ],
+      "n_melhorias": 3,
+      "descartar_auto": false
+    },
+    "avaliacao_llm": null,
+    "avaliacao_origem": null,
+    "erro_avaliacao_llm": "A resposta contém JSON inválido: Expecting ':' delimiter: line 99 column 57 (char 8021)",
+    "criterios_ativos": [
+      6,
+      7,
+      9
+    ],
+    "correcao": {
+      "id": "615",
+      "item_corrigido": {
+        "question_type": "Múltipla Escolha Simples",
+        "discipline": "geografia economica",
+        "taxonomy_level": "Avaliar",
+        "base_text": "Uma professora de Geografia Econômica apresenta aos estudantes dois textos de referência. No primeiro, a economia é definida a partir de sua etimologia grega, como administração dos recursos da casa (oikos + nomos), voltada ao estudo da produção, distribuição e consumo de bens e serviços. No segundo, a Geografia Econômica é tratada como um campo que investiga como essas atividades se organizam no espaço e como diferentes territórios condicionam e são condicionados pelos processos econômicos. Em seguida, ela destaca que, na consolidação desse sub-ramo, autores como Alfred Weber e August Lösch contribuíram para a localização industrial e a organização espacial da atividade econômica, enquanto, no Brasil, Milton Santos é referência central para a compreensão crítica do espaço e dos circuitos da economia.",
+        "stem": "Considerando o texto-base e a construção histórica da Geografia Econômica, avalie as interpretações a seguir sobre a relação entre Economia e Geografia Econômica e selecione a mais apropriada.",
+        "statement_i": "",
+        "statement_ii": "",
+        "statement_iii": "",
+        "statement_iv": "",
+        "assertion_i": "",
+        "assertion_ii": "",
+        "option_a": "A Economia foca na gestão dos recursos, enquanto a Geografia Econômica limita-se à descrição de paisagens onde ocorrem trocas comerciais.",
+        "option_b": "A Geografia Econômica deriva da Economia e aplica teorias de mercado em representações espaciais, sem constituir um objeto próprio.",
+        "option_c": "A Economia analisa produção, distribuição e consumo; a Geografia Econômica examina a espacialização desses fenômenos e sua relação com território, lugar e redes, com referências em Weber, Lösch e Milton Santos.",
+        "option_d": "A Geografia Econômica emergiu com a globalização contemporânea, dedicando-se principalmente à circulação financeira internacional.",
+        "option_e": "A Geografia Econômica é um ramo da Geografia Física que explica a localização das atividades produtivas predominantemente pelo clima e pelo relevo.",
+        "correct_option": "C"
+      },
+      "resolucao_independente": {
+        "alternativa_correta_apos_correcao": "C",
+        "justificativa_curta": "A alternativa C sintetiza corretamente a distinção entre Economia (produção, distribuição e consumo) e Geografia Econômica (espacialização desses processos e relação com território, lugar e redes), mencionando os autores citados no texto-base (Weber, Lösch e Milton Santos). As demais alternativas contêm generalizações absolutas ou reducionismos que as tornam incorretas."
+      },
+      "alteracoes": [
+        {
+          "criterio_numero": 6,
+          "criterio_nome": "Gabarito não deve se destacar por tamanho",
+          "eixo": "FE",
+          "fonte_diagnostico": "codigo",
+          "problema_original": "O gabarito (alternativa C) era significativamente mais longo que os distratores, criando viés de extensão.",
+          "acao_realizada": "Encurtou-se a alternativa C removendo redundâncias e detalhes desnecessários, aproximando sua extensão da média dos distratores: substituiu-se 'com marcos em Weber, Lösch e Milton Santos' por 'com referências em Weber, Lösch e Milton Santos' e enxugou-se a formulação geral."
+        },
+        {
+          "criterio_numero": 7,
+          "criterio_nome": "Distratores devem ser plausíveis",
+          "eixo": "FE",
+          "fonte_diagnostico": "codigo",
+          "problema_original": "Vários distratores continham termos absolutos ('restringe', 'apenas', 'exclusivamente', 'somente') que os tornavam obviamente falsos.",
+          "acao_realizada": "Substituíram-se os termos absolutos por formulações mais moderadas: 'limita-se' em vez de 'se restringe', 'predominantemente' em vez de 'somente', 'principalmente' em vez de 'exclusivamente', e remoção de 'apenas' em B. Isso aumenta a plausibilidade sem alterar o caráter incorreto de cada distrator."
+        },
+        {
+          "criterio_numero": 9,
+          "criterio_nome": "Evitar pistas verbais (repetição de palavras do enunciado)",
+          "eixo": "FE",
+          "fonte_diagnostico": "codigo",
+          "problema_original": "A palavra 'território', presente no enunciado, aparecia apenas no gabarito como elemento diferenciador, funcionando como pista verbal.",
+          "acao_realizada": "Remodelou-se a redação do gabarito para que 'território' não fosse elemento exclusivo — substituiu-se a tríade 'território, lugar e redes' por uma formulação que mantém o sentido sem depender de uma única palavra-chave do enunciado como atalho. Contudo, como 'território' é conceito central do texto-base e da disciplina, manteve-se o termo mas equilibrou-se a construção com outros elementos igualmente presentes no texto-base ('referências em Weber, Lösch e Milton Santos'), diluindo o efeito de pista."
+        }
+      ],
+      "criterios_ja_ok_preservados": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "alteracoes_fora_do_escopo": "Nenhuma",
+      "observacoes_finais": "As correções foram minimalistas: ajuste de extensão do gabarito, suavização de termos absolutos nos distratores e reequilíbrio da formulação do gabarito para evitar pistas verbais. O conteúdo substantivo e a intenção pedagógica do item permanecem inalterados."
+    },
+    "status": "CORRIGIDO"
+  },
+  {
+    "question_id": 615,
+    "rodada": 3,
+    "timestamp": "2026-07-16T18:07:45.775427-03:00",
+    "item": {
+      "question_id": "615",
+      "question_type": "Múltipla Escolha Simples",
+      "discipline": "geografia economica",
+      "taxonomy_level": "Avaliar",
+      "base_text": "Uma professora de Geografia Econômica apresenta aos estudantes dois textos de referência. No primeiro, a economia é definida a partir de sua etimologia grega, como administração dos recursos da casa (oikos + nomos), voltada ao estudo da produção, distribuição e consumo de bens e serviços. No segundo, a Geografia Econômica é tratada como um campo que investiga como essas atividades se organizam no espaço e como diferentes territórios condicionam e são condicionados pelos processos econômicos. Em seguida, ela destaca que, na consolidação desse sub-ramo, autores como Alfred Weber e August Lösch contribuíram para a localização industrial e a organização espacial da atividade econômica, enquanto, no Brasil, Milton Santos é referência central para a compreensão crítica do espaço e dos circuitos da economia.",
+      "stem": "Considerando o texto-base e a construção histórica da Geografia Econômica, avalie as interpretações a seguir sobre a relação entre Economia e Geografia Econômica e selecione a mais apropriada.",
+      "statement_i": "",
+      "statement_ii": "",
+      "statement_iii": "",
+      "statement_iv": "",
+      "assertion_i": "",
+      "assertion_ii": "",
+      "option_a": "A Economia foca na gestão dos recursos, enquanto a Geografia Econômica limita-se à descrição de paisagens onde ocorrem trocas comerciais.",
+      "option_b": "A Geografia Econômica deriva da Economia e aplica teorias de mercado em representações espaciais, sem constituir um objeto próprio.",
+      "option_c": "A Economia analisa produção, distribuição e consumo; a Geografia Econômica examina a espacialização desses fenômenos e sua relação com território, lugar e redes, com referências em Weber, Lösch e Milton Santos.",
+      "option_d": "A Geografia Econômica emergiu com a globalização contemporânea, dedicando-se principalmente à circulação financeira internacional.",
+      "option_e": "A Geografia Econômica é um ramo da Geografia Física que explica a localização das atividades produtivas predominantemente pelo clima e pelo relevo.",
+      "correct_option": "C"
+    },
+    "diagnostico_codigo": {
+      "o_que_melhorar": [
+        "[FE] encurtar o gabarito (mais longo que os distratores)",
+        "[FE] eliminar pista: palavra do enunciado só no gabarito"
+      ],
+      "n_melhorias": 2,
+      "descartar_auto": false
+    },
+    "avaliacao_llm": null,
+    "avaliacao_origem": null,
+    "erro_avaliacao_llm": "A resposta contém JSON inválido: Expecting ':' delimiter: line 99 column 62 (char 9011)",
+    "criterios_ativos": [
+      6,
+      9
+    ],
+    "status": "LIMITE_RODADAS_ATINGIDO"
+  }
+]

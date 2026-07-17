@@ -1,0 +1,476 @@
+﻿question_id,rodada,criterio_numero,criterio_nome,eixo,fonte_diagnostico
+2,1,7,Distratores devem ser plausíveis,FE,codigo
+2,1,17,Aderência ao nível de Bloom declarado,AP,llm
+2,2,5,Paralelismo: extensão homogênea,FE,ambos
+2,2,6,Gabarito não deve se destacar por tamanho,FE,ambos
+2,2,7,Distratores devem ser plausíveis,FE,ambos
+2,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,ambos
+2,2,17,Aderência ao nível de Bloom declarado,AP,ambos
+22,1,11,Comando do enunciado deve ser explícito,FE,codigo
+22,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+22,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+22,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+26,1,12,Evitar lacunas no meio do enunciado,FE,codigo
+26,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+26,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+26,2,17,Aderência ao nível de Bloom declarado,AP,llm
+26,2,16,Alternativas devem tratar do conteúdo do item,FE,codigo
+32,1,11,Comando do enunciado deve ser explícito,FE,codigo
+32,1,17,Aderência ao nível de Bloom declarado,AP,llm
+36,1,17,Aderência ao nível de Bloom declarado,AP,codigo e llm
+36,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+36,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+37,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+37,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+37,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+39,1,11,Comando do enunciado deve ser explícito,FE,codigo
+39,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+39,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+39,1,7,Distratores devem ser plausíveis (remoção de termos absolutos),FE,codigo
+39,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+39,2,6,Gabarito não deve se destacar por tamanho,FE,codigo
+39,2,11,Comando do enunciado deve ser explícito,FE,codigo
+56,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+56,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+56,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+56,2,4,Correção factual do gabarito,FE,llm
+56,2,15,Texto-base deve ser necessário,FE,llm
+62,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+62,1,10,Evitar enunciado em formulação negativa,FE,codigo
+62,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+62,2,10,Evitar enunciado em formulação negativa,FE,codigo
+62,2,6,Gabarito não deve se destacar por tamanho,FE,codigo
+63,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+63,1,17,Aderência ao nível de Bloom declarado,AP,llm
+63,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+63,2,4,Correção factual do gabarito,FE,llm
+63,2,3,Gabarito não pode repetir um distrator,FE,llm
+63,2,15,Texto-base deve ser necessário,FE,llm
+63,2,16,Alternativas devem tratar do conteúdo do item,FE,llm
+66,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+66,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+66,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+66,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+66,2,11,Comando do enunciado deve ser explícito,FE,codigo
+66,2,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+69,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+74,1,17,Aderência ao nível de Bloom declarado,AP,llm
+74,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+74,2,17,Aderência ao nível de Bloom declarado,AP,llm
+78,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+78,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+78,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+85,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+85,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+85,2,1,Gabarito deve existir e ser único,FE,ambos
+85,2,3,Gabarito não pode repetir um distrator,FE,ambos
+85,2,4,Correção factual do gabarito,FE,ambos
+85,2,7,Distratores devem ser plausíveis (sem termos absolutos),FE,codigo
+85,2,15,Texto-base deve ser necessário,FE,llm
+85,2,16,Alternativas devem tratar do conteúdo do item,FE,llm
+86,1,7,Distratores devem ser plausíveis,FE,codigo
+86,1,11,Comando do enunciado deve ser explícito,FE,codigo
+86,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+86,2,6,Gabarito não deve se destacar por tamanho,FE,codigo
+93,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+93,1,7,Distratores devem ser plausíveis,FE,codigo | llm
+93,1,11,Comando do enunciado deve ser explícito,FE,codigo
+93,1,17,Aderência ao nível de Bloom declarado,AP,codigo | llm
+98,1,17,Aderência ao nível de Bloom declarado,AP,codigo e llm
+98,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+98,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+106,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+106,1,17,Aderência ao nível de Bloom declarado,AP,codigo e llm
+106,2,4,Correção factual do gabarito,FE,ambos
+106,2,15,Texto-base deve ser necessário,FE,codigo
+106,2,16,Alternativas devem tratar do conteúdo do item,FE,ambos
+109,1,17,Aderência ao nível de Bloom declarado,AP,codigo e llm
+109,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+109,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+109,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+109,2,17,Aderência ao nível de Bloom declarado,AP,ambos
+117,1,7,Distratores devem ser plausíveis (remoção de termos absolutos),FE,codigo
+117,1,11,Comando do enunciado deve ser explícito,FE,codigo
+117,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+117,2,4,Correção factual do gabarito,FE,llm
+117,2,15,Texto-base deve ser necessário,FE,llm
+117,2,16,Alternativas devem tratar do conteúdo do item,FE,llm
+118,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+118,1,7,Distratores devem ser plausíveis,FE,codigo
+118,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+118,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+118,2,6,Gabarito não deve se destacar por tamanho,FE,codigo
+118,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+118,2,17,Aderência ao nível de Bloom declarado,AP,llm
+122,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+122,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+122,2,4,Correção factual do gabarito,FE,ambos
+122,2,1,Gabarito deve existir e ser único,FE,ambos
+123,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+123,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+123,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+131,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+131,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+132,1,17,Aderência ao nível de Bloom declarado,AP,llm
+132,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+141,1,7,Distratores devem ser plausíveis,FE,codigo
+141,1,11,Comando do enunciado deve ser explícito,FE,codigo
+141,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+141,2,1,Gabarito deve existir e ser único,FE,ambos
+141,2,3,Gabarito não pode repetir um distrator,FE,ambos
+141,2,4,Correção factual do gabarito,FE,ambos
+141,2,7,Distratores devem ser plausíveis,FE,codigo
+151,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+151,2,17,Aderência ao nível de Bloom declarado,AP,llm
+160,1,15,Texto-base deve ser necessário,FE,codigo
+160,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+160,2,4,Correção factual do gabarito,FE,ambos
+160,2,6,Gabarito não deve se destacar por tamanho,FE,codigo
+160,2,18,Conformidade com o tipo de questão declarado,AP,codigo
+160,2,15,Texto-base deve ser necessário,FE,codigo
+165,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+165,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+167,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+167,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+167,2,17,Aderência ao nível de Bloom declarado,AP,llm
+167,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+171,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+171,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+171,1,17,Aderência ao nível de Bloom declarado,AP,llm
+171,2,6,Gabarito não deve se destacar por tamanho,FE,codigo
+184,1,11,Comando do enunciado deve ser explícito,FE,codigo
+184,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+184,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+184,2,5,Paralelismo: extensão homogênea,FE,ambos
+184,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+184,2,6,Gabarito não deve se destacar por tamanho,FE,ambos
+186,1,17,Aderência ao nível de Bloom declarado,AP,llm
+186,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+186,2,4,Correção factual do gabarito,FE,ambos
+224,1,7,Distratores devem ser plausíveis (remover termos absolutos),FE,codigo
+224,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+224,1,11,Comando do enunciado deve ser explícito,FE,codigo
+224,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+227,1,12,Evitar lacunas no meio do enunciado,FE,codigo
+227,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+227,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+227,2,17,Aderência ao nível de Bloom declarado,AP,codigo
+228,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+228,2,17,Aderência ao nível de Bloom declarado,AP,llm
+229,1,11,Comando do enunciado deve ser explícito,FE,codigo
+229,1,17,Aderência ao nível de Bloom declarado,AP,llm
+229,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+229,2,17,Aderência ao nível de Bloom declarado,AP,llm
+238,1,12,Evitar lacunas no meio do enunciado,FE,codigo
+238,1,17,Aderência ao nível de Bloom declarado,AP,codigo e llm
+238,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+238,2,17,Aderência ao nível de Bloom declarado,AP,llm
+241,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+241,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+241,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+251,1,12,Evitar lacunas no meio do enunciado,FE,codigo
+251,1,17,Aderência ao nível de Bloom declarado,AP,llm
+251,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+251,2,17,Aderência ao nível de Bloom declarado,AP,ambos
+251,2,18,Conformidade com o tipo de questão declarado,AP,codigo
+251,2,15,Texto-base deve ser necessário,FE,codigo
+252,1,12,Remover lacuna do enunciado,FE,codigo
+252,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+252,1,5,Paralelismo: extensão homogênea,FE,codigo
+252,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+252,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+252,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+260,1,11,Comando do enunciado deve ser explícito,FE,codigo
+260,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+260,2,4,Correção factual do gabarito,FE,llm
+260,2,17,Aderência ao nível de Bloom declarado,AP,llm
+288,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+288,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+288,1,17,Aderência ao nível de Bloom declarado,AP,llm
+288,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+288,2,4,Correção factual do gabarito,FE,ambos
+288,2,15,Texto-base deve ser necessário / coerência interna,FE,llm
+288,2,5,Paralelismo: extensão homogênea,FE,codigo
+288,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+289,1,15,Texto-base deve ser necessário,FE,codigo
+289,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+289,2,4,Correção factual do gabarito,FE,ambos
+289,2,17,Aderência ao nível de Bloom declarado,AP,llm
+289,2,18,Conformidade com o tipo de questão declarado,AP,codigo
+289,2,15,Texto-base deve ser necessário,FE,codigo
+312,1,12,Evitar lacunas no meio do enunciado,FE,codigo
+312,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+312,2,17,Aderência ao nível de Bloom declarado,AP,llm
+312,2,7,Distratores devem ser plausíveis,FE,llm
+322,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+322,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+327,1,12,Evitar lacunas no meio do enunciado,FE,codigo
+327,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+327,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+327,2,16,Alternativas devem tratar do conteúdo do item,FE,codigo
+327,2,17,Aderência ao nível de Bloom declarado,AP,llm
+331,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+331,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+331,2,11,Comando do enunciado deve ser explícito,FE,codigo
+331,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+334,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+334,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+334,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+343,1,11,Comando do enunciado deve ser explícito,FE,codigo
+343,1,17,Aderência ao nível de Bloom declarado,AP,llm
+343,2,7,Distratores devem ser plausíveis,FE,ambos
+343,2,17,Aderência ao nível de Bloom declarado,AP,ambos
+356,1,7,Distratores devem ser plausíveis,FE,codigo
+356,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+356,1,11,Comando do enunciado deve ser explícito,FE,codigo
+356,1,17,Aderência ao nível de Bloom declarado,AP,llm
+356,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+360,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+360,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+360,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+360,2,6,Gabarito não deve se destacar por tamanho,FE,codigo
+362,1,5,Paralelismo: extensão homogênea,FE,ambos
+362,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+362,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+362,2,17,Aderência ao nível de Bloom declarado,AP,ambos
+362,2,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+364,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+364,1,11,Comando do enunciado deve ser explícito,FE,codigo
+364,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+364,1,17,Aderência ao nível de Bloom declarado,AP,llm
+364,2,6,Gabarito não deve se destacar por tamanho,FE,codigo
+364,2,17,Aderência ao nível de Bloom declarado,AP,llm
+374,1,9,Eliminar pista verbal (palavra do enunciado só no gabarito),FE,codigo
+374,1,11,Comando do enunciado explícito,FE,codigo
+374,1,7,Distratores plausíveis,FE,llm
+374,1,19,Distribuição equilibrada do gabarito (letra dominante),APL,codigo
+374,2,17,Aderência ao nível de Bloom declarado,AP,ambos
+374,2,11,Comando do enunciado explícito,FE,llm
+374,2,15,Texto-base deve ser necessário,FE,llm
+374,2,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+405,1,7,Distratores devem ser plausíveis,FE,ambos
+405,1,11,Comando do enunciado deve ser explícito,FE,ambos
+405,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+405,2,17,Aderência ao nível de Bloom declarado,AP,llm
+418,1,11,Comando do enunciado deve ser explícito,FE,codigo
+418,1,7,Distratores devem ser plausíveis (remoção de termos absolutos),FE,codigo
+418,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+418,2,4,Correção factual do gabarito,FE,llm
+418,2,3,Gabarito não pode repetir um distrator,FE,llm
+418,2,7,Distratores plausíveis,FE,llm
+418,2,16,Alternativas devem tratar do conteúdo do item,FE,llm
+438,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+438,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+438,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+457,1,7,Distratores devem ser plausíveis,FE,codigo
+457,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+457,1,17,Aderência ao nível de Bloom declarado,AP,llm
+457,2,17,Aderência ao nível de Bloom declarado,AP,llm
+470,1,11,Comando do enunciado deve ser explícito,FE,codigo
+470,1,12,Evitar lacunas no meio do enunciado,FE,codigo
+470,1,17,Aderência ao nível de Bloom declarado,AP,llm
+470,1,7,Distratores devem ser plausíveis,FE,llm
+470,2,5,Paralelismo: extensão homogênea,FE,llm
+470,2,6,Gabarito não deve se destacar por tamanho,FE,llm
+470,2,7,Distratores devem ser plausíveis,FE,llm
+470,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,llm
+470,2,17,Aderência ao nível de Bloom declarado,AP,llm
+483,1,11,Comando do enunciado deve ser explícito,FE,codigo
+483,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+483,2,17,Aderência ao nível de Bloom declarado,AP,llm
+489,1,17,Aderência ao nível de Bloom declarado,AP,llm
+489,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+489,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+489,2,7,Distratores devem ser plausíveis,FE,codigo
+489,2,16,Alternativas devem tratar do conteúdo do item,FE,codigo
+500,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+500,1,7,Distratores devem ser plausíveis (suavizar termos absolutos),FE,codigo
+500,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+500,2,17,Aderência ao nível de Bloom declarado,AP,codigo
+500,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+503,1,7,Distratores devem ser plausíveis (suavizar termos absolutos),FE,codigo
+503,1,11,Comando do enunciado deve ser explícito,FE,codigo
+503,1,17,Aderência ao nível de Bloom declarado,AP,llm
+503,2,6,Gabarito não deve se destacar por tamanho,FE,codigo
+503,2,17,Aderência ao nível de Bloom declarado,AP,llm
+512,1,5,Paralelismo: extensão homogênea,FE,ambos
+512,1,7,Distratores devem ser plausíveis,FE,ambos
+512,1,17,Aderência ao nível de Bloom declarado,AP,llm
+512,2,16,Alternativas devem tratar do conteúdo do item,FE,codigo
+512,2,17,Aderência ao nível de Bloom declarado,AP,llm
+512,2,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+519,1,7,Distratores devem ser plausíveis,FE,codigo
+519,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+519,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+519,2,17,Aderência ao nível de Bloom declarado,AP,codigo
+526,1,7,Distratores devem ser plausíveis,FE,codigo
+526,1,17,Aderência ao nível de Bloom declarado,AP,llm
+526,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+526,2,4,Correção factual do gabarito,FE,llm
+526,2,17,Aderência ao nível de Bloom declarado,AP,llm
+536,1,12,Evitar lacunas no meio do enunciado,FE,codigo
+536,1,17,Aderência ao nível de Bloom declarado,AP,codigo | llm
+536,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+536,2,17,Aderência ao nível de Bloom declarado,AP,llm
+540,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+540,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+540,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+540,2,7,Distratores devem ser plausíveis,FE,llm
+567,1,11,Comando do enunciado deve ser explícito,FE,codigo
+567,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+567,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+568,1,7,Distratores devem ser plausíveis,FE,codigo
+568,1,17,Aderência ao nível de Bloom declarado,AP,llm
+568,2,17,Aderência ao nível de Bloom declarado,AP,llm
+589,1,11,Comando do enunciado deve ser explícito,FE,codigo
+589,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+589,2,6,Gabarito não deve se destacar por tamanho,FE,codigo
+589,2,15,Texto-base deve ser necessário,FE,codigo
+591,1,7,Distratores devem ser plausíveis,FE,codigo
+591,1,17,Aderência ao nível de Bloom declarado,AP,llm
+591,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+591,2,7,Distratores devem ser plausíveis,FE,codigo
+591,2,17,Aderência ao nível de Bloom declarado,AP,llm
+601,1,12,Evitar lacunas no meio do enunciado,FE,codigo
+601,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+601,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+601,2,17,Aderência ao nível de Bloom declarado,AP,llm
+615,1,11,Comando do enunciado deve ser explícito,FE,codigo e LLM
+615,1,17,Aderência ao nível de Bloom declarado,AP,LLM
+615,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+615,1,7,Distratores devem ser plausíveis (remoção de termos absolutos),FE,codigo
+615,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+615,2,6,Gabarito não deve se destacar por tamanho,FE,codigo
+615,2,7,Distratores devem ser plausíveis,FE,codigo
+615,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+620,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+620,1,17,Aderência ao nível de Bloom declarado,AP,llm
+620,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+620,2,17,Aderência ao nível de Bloom declarado,AP,llm
+620,2,5,Paralelismo: extensão homogênea,FE,ambos
+620,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,ambos
+620,2,7,Distratores devem ser plausíveis,FE,ambos
+623,1,5,Paralelismo: extensão homogênea,FE,ambos
+623,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+623,1,7,Distratores devem ser plausíveis,FE,ambos
+623,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,ambos
+623,1,15,Texto-base deve ser necessário,FE,ambos
+623,1,16,Alternativas devem tratar do conteúdo do item,FE,ambos
+623,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+623,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+623,2,4,Correção factual do gabarito,FE,ambos
+623,2,15,Texto-base deve ser necessário,FE,llm
+645,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+645,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+645,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+645,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+651,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+651,1,17,Aderência ao nível de Bloom declarado,AP,codigo
+651,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+651,2,17,Aderência ao nível de Bloom declarado,AP,ambos
+651,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+669,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+669,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+669,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+669,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+670,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+670,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+690,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+690,1,7,Distratores devem ser plausíveis,FE,codigo | llm
+690,1,17,Aderência ao nível de Bloom declarado,AP,codigo | llm
+690,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+690,2,4,Correção factual do gabarito,FE,ambos
+690,2,3,Gabarito não pode repetir um distrator,FE,ambos
+690,2,7,Distratores devem ser plausíveis,FE,ambos
+690,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+690,2,17,Aderência ao nível de Bloom declarado,AP,LLM
+700,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+700,1,11,Comando do enunciado deve ser explícito,FE,codigo
+700,1,15,Texto-base deve ser necessário,FE,codigo
+700,1,17,Aderência ao nível de Bloom declarado,AP,llm
+700,2,6,Gabarito não deve se destacar por tamanho,FE,codigo
+700,2,17,Aderência ao nível de Bloom declarado,AP,llm
+704,1,11,Comando do enunciado deve ser explícito,FE,codigo
+704,1,17,Aderência ao nível de Bloom declarado,AP,llm
+704,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+704,2,17,Aderência ao nível de Bloom declarado,AP,ambos
+704,2,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+707,1,2,Alternativas não podem ser equivalentes,FE,ambos
+707,1,3,Gabarito não pode repetir um distrator,FE,ambos
+707,1,4,Correção factual do gabarito,FE,ambos
+707,1,5,Paralelismo: extensão homogênea,FE,ambos
+707,1,6,Gabarito não deve se destacar por tamanho,FE,ambos
+707,1,18,Conformidade com o tipo de questão declarado,AP,codigo
+707,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+707,2,15,Texto-base deve ser necessário,FE,codigo
+729,1,17,Aderência ao nível de Bloom declarado,AP,"codigo, llm"
+729,1,7,Distratores devem ser plausíveis,FE,llm
+729,1,16,Alternativas devem tratar do conteúdo do item,FE,codigo
+729,2,17,Aderência ao nível de Bloom declarado,AP,codigo
+743,1,7,Distratores devem ser plausíveis (remoção de termos absolutos),FE,codigo
+743,1,11,Comando do enunciado deve ser explícito,FE,codigo
+743,1,17,Aderência ao nível de Bloom declarado,AP,llm
+743,2,17,Aderência ao nível de Bloom declarado,AP,llm
+753,1,3,Gabarito não pode repetir um distrator,FE,codigo
+753,1,5,Paralelismo: extensão homogênea,FE,codigo
+753,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+753,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+753,2,4,Correção factual do gabarito,FE,ambos
+767,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+767,1,7,Distratores devem ser plausíveis (sem termos absolutos),FE,codigo
+767,1,11,Comando do enunciado deve ser explícito,FE,codigo
+767,1,17,Aderência ao nível de Bloom declarado,AP,codigo | llm
+777,1,7,Distratores devem ser plausíveis,FE,codigo
+777,1,15,Texto-base deve ser necessário,FE,codigo
+777,1,16,Alternativas devem tratar do conteúdo do item,FE,codigo
+777,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+777,2,17,Aderência ao nível de Bloom declarado,AP,ambos
+787,1,17,Aderência ao nível de Bloom declarado,AP,codigo e LLM
+787,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+787,2,11,Comando do enunciado deve ser explícito,FE,codigo
+787,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+787,2,7,Distratores devem ser plausíveis (evitar termos absolutos),FE,codigo
+792,1,12,Remover lacuna do enunciado,FE,codigo
+792,1,7,Suavizar termos absolutos nos distratores,FE,codigo
+792,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+792,2,1,Gabarito deve existir e ser único,FE,llm
+792,2,3,Gabarito não pode repetir um distrator,FE,llm
+792,2,4,Correção factual do gabarito,FE,llm
+792,2,15,Texto-base deve ser necessário,FE,llm
+792,2,16,Alternativas devem tratar do conteúdo do item,FE,llm
+792,2,17,Aderência ao nível de Bloom declarado,AP,llm
+794,1,6,Gabarito não deve se destacar por tamanho,FE,codigo
+794,1,17,Aderência ao nível de Bloom declarado,AP,codigo e llm
+794,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+794,2,6,Gabarito não deve se destacar por tamanho,FE,codigo
+794,2,17,Aderência ao nível de Bloom declarado,AP,llm
+801,1,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+801,1,17,Aderência ao nível de Bloom declarado,AP,llm
+801,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+801,2,17,Aderência ao nível de Bloom declarado,AP,llm
+801,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,codigo
+808,1,11,Comando do enunciado deve ser explícito,FE,codigo
+808,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+808,2,4,Correção factual do gabarito,FE,ambos
+808,2,11,Comando do enunciado explícito,FE,codigo
+818,1,7,Distratores devem ser plausíveis,FE,codigo
+818,1,17,Aderência ao nível de Bloom declarado,AP,ambos
+818,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+818,2,17,Aderência ao nível de Bloom declarado,AP,ambos
+818,2,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+827,1,11,Comando do enunciado deve ser explícito,FE,codigo
+827,1,17,Aderência ao nível de Bloom declarado,AP,llm
+827,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+827,1,7,Distratores devem ser plausíveis (remoção de termos absolutos),FE,codigo
+827,2,17,Aderência ao nível de Bloom declarado,AP,ambos
+827,2,5,Paralelismo: extensão homogênea,FE,ambos
+827,2,6,Gabarito não deve se destacar por tamanho,FE,ambos
+827,2,9,Evitar pistas verbais (repetição de palavras do enunciado),FE,ambos
+840,1,5,Paralelismo: extensão homogênea,FE,codigo
+840,1,17,Aderência ao nível de Bloom declarado,AP,codigo e llm
+840,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+840,2,17,Aderência ao nível de Bloom declarado,AP,llm
+840,2,5,Paralelismo: extensão homogênea,FE,codigo
+844,1,11,Comando do enunciado deve ser explícito,FE,codigo
+844,1,19,Distribuição equilibrada do gabarito no conjunto,APL,codigo
+844,2,17,Aderência ao nível de Bloom declarado,AP,llm

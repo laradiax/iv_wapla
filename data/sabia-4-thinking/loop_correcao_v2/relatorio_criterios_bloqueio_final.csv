@@ -1,0 +1,15 @@
+﻿criterio,nome,so_codigo,so_llm,ambos,ocorrencias
+9,eliminar pista: palavra do enunciado só no gabarito,24,5,0,29
+17,alinhar o verbo do enunciado ao Bloom declarado,26,1,1,28
+7,suavizar termos absolutos nos distratores,2,11,0,13
+6,encurtar o gabarito (mais longo que os distratores),7,5,0,12
+15,tornar o texto-base necessário ou removê-lo,8,1,0,9
+16,conectar as alternativas ao conteúdo do item,8,1,0,9
+3,diferenciar gabarito do distrator equivalente,2,2,0,4
+5,homogeneizar a extensão das alternativas (paralelismo),0,4,0,4
+1,corrigir gabarito para o intervalo A-E,0,2,0,2
+4,corrigir gabarito matematicamente impossível,0,2,0,2
+19,reposicionar o gabarito (viés de letra no conjunto),2,0,0,2
+18,ajustar o formato ao tipo declarado,2,0,0,2
+2,eliminar alternativas equivalentes,1,0,0,1
+10,reescrever enunciado em forma afirmativa,1,0,0,1

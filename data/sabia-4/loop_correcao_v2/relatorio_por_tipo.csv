@@ -1,0 +1,5 @@
+﻿question_type,n_itens,aprovados,taxa_resolucao_media,correcoes_media,taxa_aprovacao_%
+Múltipla Escolha Simples,51,21,0.78,2.47,41.2
+Afirmação Incompleta,45,20,0.82,2.33,44.4
+Asserção-Razão,2,0,0.5,3.0,0.0
+Múltipla Escolha Complexa,2,2,1.0,2.5,100.0

@@ -1,0 +1,5 @@
+﻿question_type,n_itens,aprovados,limite_rodadas,descartados,rodadas_media,problemas_antes_media,problemas_depois_media,taxa_aprovacao_%
+Múltipla Escolha Simples,51,12,39,0,2.88,2.8,1.02,23.5
+Afirmação Incompleta,45,4,41,0,2.93,2.36,0.93,8.9
+Asserção-Razão,2,0,2,0,3.0,2.0,3.0,0.0
+Múltipla Escolha Complexa,2,0,2,0,3.0,4.0,1.5,0.0

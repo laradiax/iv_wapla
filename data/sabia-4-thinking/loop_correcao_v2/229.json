@@ -1,0 +1,312 @@
+[
+  {
+    "question_id": 229,
+    "rodada": 1,
+    "timestamp": "2026-07-16T23:06:40.420379-03:00",
+    "item": {
+      "question_id": "229",
+      "question_type": "Múltipla Escolha Simples",
+      "discipline": "calculo diferencial e integral iii",
+      "taxonomy_level": "Avaliar",
+      "base_text": "Em aplicações de engenharia e de ciências exatas, o cálculo de integrais triplas permite determinar propriedades globais de sólidos com densidade variável, como volume, massa, centro de massa e momentos de inércia. Para isso, é essencial interpretar corretamente a função densidade e o domínio de integração.",
+      "stem": "Considere um sólido $E$ com densidade variável $\\rho(x,y,z)$. Para determinar o momento de inércia em relação ao eixo $z$, a expressão correta é...",
+      "statement_i": NaN,
+      "statement_ii": NaN,
+      "statement_iii": NaN,
+      "statement_iv": NaN,
+      "assertion_i": NaN,
+      "assertion_ii": NaN,
+      "option_a": "$I_z=\\iiint_E (x^2+y^2)\\,\\rho(x,y,z)\\,dV$.",
+      "option_b": "$I_z=\\iiint_E z^2\\,\\rho(x,y,z)\\,dV$.",
+      "option_c": "$I_z=\\iiint_E (x+y)^2\\,\\rho(x,y,z)\\,dV$.",
+      "option_d": "$I_z=\\iiint_E (x^2+y^2+z^2)\\,\\rho(x,y,z)\\,dV$.",
+      "option_e": "$I_z=\\iiint_E xy\\,\\rho(x,y,z)\\,dV$.",
+      "correct_option": "A"
+    },
+    "diagnostico_codigo": {
+      "o_que_melhorar": [
+        "[FE] explicitar o comando do enunciado",
+        "[APL] reposicionar o gabarito (viés de letra no conjunto)"
+      ],
+      "n_melhorias": 2,
+      "descartar_auto": false
+    },
+    "avaliacao_llm": {
+      "id": "229",
+      "resolucao_independente.tarefa_identificada": "Identificar a expressão correta para o momento de inércia de um sólido com densidade variável em relação ao eixo z, utilizando integral tripla.",
+      "resolucao_independente.alternativa_correta_observada": "A",
+      "resolucao_independente.gabarito_declarado": "A",
+      "resolucao_independente.situacao_do_gabarito": "GABARITO_CORRETO_UNICO",
+      "resolucao_independente.justificativa_curta": "A alternativa A utiliza a distância perpendicular ao eixo z (x² + y²), que é a definição correta do momento de inércia em relação ao eixo z. As demais alternativas representam distâncias ou produtos incorretos.",
+      "bloom.nivel_declarado": "Avaliar",
+      "bloom.nivel_observado": "LEMBRAR",
+      "bloom.alinhamento": "NAO",
+      "bloom.evidencia": "O enunciado pede 'a expressão correta é...', exigindo apenas a recuperação da fórmula padrão do momento de inércia em relação ao eixo z.",
+      "bloom.justificativa": "A operação cognitiva mínima necessária é lembrar ou reconhecer a fórmula correta do momento de inércia. Não há critério explícito para julgamento, nem comparação entre opções com base em mérito qualitativo. O nível declarado 'Avaliar' é incompatível com a tarefa real, que é de reconhecimento de fórmula.",
+      "criterios.paralelismo.status": "OK",
+      "criterios.paralelismo.evidencia": "Todas as alternativas possuem estrutura gramatical idêntica: $I_z=\\iiint_E$ [expressão] $\\,\\rho(x,y,z)\\,dV$.",
+      "criterios.paralelismo.justificativa": "As cinco alternativas seguem rigorosamente o mesmo padrão sintático e notacional, diferindo apenas na expressão matemática entre parênteses. Não há quebra de paralelismo.",
+      "criterios.coerencia_conteudo.status": "OK",
+      "criterios.coerencia_conteudo.evidencia": "O texto-base menciona 'momentos de inércia' e a necessidade de interpretar 'função densidade e domínio de integração', alinhando-se diretamente com a tarefa do enunciado.",
+      "criterios.coerencia_conteudo.justificativa": "Todos os elementos do item (texto-base, enunciado, alternativas e gabarito) tratam do mesmo conceito: cálculo do momento de inércia via integral tripla com densidade variável.",
+      "criterios.corretude_unicidade_gabarito.status": "OK",
+      "criterios.corretude_unicidade_gabarito.evidencia": "A alternativa A corresponde à definição matemática padrão: $I_z=\\iiint_E (x^2+y^2)\\rho\\,dV$, pois a distância ao eixo z é dada por $\\sqrt{x^2+y^2}$.",
+      "criterios.corretude_unicidade_gabarito.justificativa": "A resposta A é matematicamente correta e única. As demais alternativas não representam a distância perpendicular ao eixo z: B usa z² (distância ao plano xy), C usa (x+y)² (forma incorreta), D usa x²+y²+z² (momento em relação à origem), E usa xy (produto sem significado físico para momento de inércia).",
+      "criterios.opiniao_subjetividade.status": "OK",
+      "criterios.opiniao_subjetividade.local_do_problema": "nenhum",
+      "criterios.opiniao_subjetividade.evidencia": "Nenhuma evidência de juízo de valor, preferência pessoal ou termos como 'melhor', 'mais adequado' etc.",
+      "criterios.opiniao_subjetividade.justificativa": "O item é puramente objetivo: pede a identificação de uma fórmula matemática correta, sem qualquer componente subjetivo.",
+      "criterios.convergencia_pistas.status": "OK",
+      "criterios.convergencia_pistas.alternativa_favorecida": "",
+      "criterios.convergencia_pistas.evidencia": "Nenhuma alternativa reúne elementos das demais nem se destaca por extensão ou completude.",
+      "criterios.convergencia_pistas.justificativa": "As alternativas são formulações matemáticas distintas e mutuamente exclusivas. Não há padrão de convergência ou pista formal que permita identificar o gabarito sem conhecimento do conteúdo.",
+      "criterios.plausibilidade_distratores.status_geral": "OK",
+      "criterios.plausibilidade_distratores.por_alternativa.A.papel": "gabarito",
+      "criterios.plausibilidade_distratores.por_alternativa.A.plausivel": "SIM",
+      "criterios.plausibilidade_distratores.por_alternativa.A.erro_tipico": "N/A",
+      "criterios.plausibilidade_distratores.por_alternativa.A.justificativa": "Expressão matematicamente correta para o momento de inércia em relação ao eixo z.",
+      "criterios.plausibilidade_distratores.por_alternativa.B.papel": "distrator",
+      "criterios.plausibilidade_distratores.por_alternativa.B.plausivel": "SIM",
+      "criterios.plausibilidade_distratores.por_alternativa.B.erro_tipico": "Confusão entre eixo de rotação e coordenada: usar z² em vez de x²+y², possivelmente por analogia com I_x ou I_y.",
+      "criterios.plausibilidade_distratores.por_alternativa.B.justificativa": "Um estudante que confunda qual coordenada deve ser excluída ao calcular o momento em relação a um eixo específico poderia escolher esta opção.",
+      "criterios.plausibilidade_distratores.por_alternativa.C.papel": "distrator",
+      "criterios.plausibilidade_distratores.por_alternativa.C.plausivel": "SIM",
+      "criterios.plausibilidade_distratores.por_alternativa.C.erro_tipico": "Erro algébrico ao expandir ou interpretar a expressão da distância perpendicular.",
+      "criterios.plausibilidade_distratores.por_alternativa.C.justificativa": "A expressão (x+y)² pode resultar de uma confusão com a forma correta (x²+y²), especialmente se o estudante não compreende que se trata de soma de quadrados e não de quadrado de soma.",
+      "criterios.plausibilidade_distratores.por_alternativa.D.papel": "distrator",
+      "criterios.plausibilidade_distratores.por_alternativa.D.plausivel": "SIM",
+      "criterios.plausibilidade_distratores.por_alternativa.D.erro_tipico": "Interpretação equivocada da distância: usar r² = x²+y²+z² (distância à origem) em vez de x²+y² (distância ao eixo z).",
+      "criterios.plausibilidade_distratores.por_alternativa.D.justificativa": "Um estudante que não distinga momento de inércia em relação a um eixo versus em relação a um ponto poderia escolher esta alternativa, que é a mais 'completa' das incorretas.",
+      "criterios.plausibilidade_distratores.por_alternativa.E.papel": "distrator",
+      "criterios.plausibilidade_distratores.por_alternativa.E.plausivel": "SIM",
+      "criterios.plausibilidade_distratores.por_alternativa.E.erro_tipico": "Confusão com produtos cruzados que aparecem em outros contextos (como produtos de inércia).",
+      "criterios.plausibilidade_distratores.por_alternativa.E.justificativa": "Embora xy não represente a distância ao eixo z, estudantes que tenham visto termos cruzados em tensor de inércia ou produtos de inércia podem ser levados a esta escolha.",
+      "criterios.plausibilidade_distratores.sugestao_correcao": "Os distratores são plausíveis e bem construídos. Nenhuma correção necessária neste aspecto.",
+      "criterios.ideia_central_enunciado.status": "OK",
+      "criterios.ideia_central_enunciado.evidencia": "Enunciado: 'Para determinar o momento de inércia em relação ao eixo z, a expressão correta é...'",
+      "criterios.ideia_central_enunciado.justificativa": "O enunciado declara claramente a tarefa: identificar a expressão matemática correta para o momento de inércia em relação ao eixo z. O estudante sabe exatamente o que procurar antes de ler as alternativas.",
+      "criterios.adequacao_nivel_ensino.status": "NAO_AVALIAVEL",
+      "criterios.adequacao_nivel_ensino.evidencia": "Dados insuficientes",
+      "criterios.adequacao_nivel_ensino.justificativa": "Não foi informado o nível de ensino específico (graduação, pós-graduação) nem o momento curricular em que o item seria aplicado. Embora a disciplina seja 'Cálculo Diferencial e Integral III', não há parâmetros para avaliar se a complexidade é adequada ao público-alvo sem informações adicionais.",
+      "criterios.clareza_linguistica.status": "OK",
+      "criterios.clareza_linguistica.evidencia": "Enunciado conciso e preciso: 'Considere um sólido E com densidade variável ρ(x,y,z). Para determinar o momento de inércia em relação ao eixo z, a expressão correta é...'",
+      "criterios.clareza_linguistica.justificativa": "A linguagem é clara, direta e tecnicamente precisa. Não há ambiguidade, negações excessivas, termos vagos ou redundâncias.",
+      "criterios.termos_absolutos_generalizacoes.status": "OK",
+      "criterios.termos_absolutos_generalizacoes.local_do_problema": "nenhum",
+      "criterios.termos_absolutos_generalizacoes.expressao_identificada": "",
+      "criterios.termos_absolutos_generalizacoes.evidencia": "Nenhuma alternativa ou o enunciado emprega termos absolutos como 'sempre', 'nunca', 'todos', 'apenas' etc.",
+      "criterios.termos_absolutos_generalizacoes.justificativa": "O item não contém generalizações indevidas ou termos absolutos que possam criar pistas formais ou tornar alternativas trivialmente falsas/verdadeiras.",
+      "sintese.principais_problemas": [
+        "Desalinhamento do nível de Bloom: declarado como 'Avaliar', mas a operação cognitiva exigida é 'Lembrar' (reconhecimento de fórmula)."
+      ],
+      "sintese.tags_de_erro": [
+        "BLOOM_DESALINHADO"
+      ],
+      "sintese.decisao_recomendada": "REVISAR",
+      "sintese.justificativa_final": "O item é bem construído do ponto de vista formal: paralelismo perfeito, coerência temática, gabarito correto e único, distratores plausíveis, enunciado claro e sem subjetividade. O único problema identificado é o desalinhamento do nível de Bloom declarado ('Avaliar') com a operação cognitiva real ('Lembrar'). Recomenda-se revisar a classificação de Bloom para 'Lembrar' ou 'Compreender', ou reformular o item para exigir operação cognitiva de nível superior (por exemplo, pedindo comparação entre expressões ou análise de domínios de integração)."
+    },
+    "avaliacao_origem": "llm",
+    "erro_avaliacao_llm": null,
+    "criterios_ativos": [
+      11,
+      17,
+      19
+    ],
+    "correcao": {
+      "id": "229",
+      "item_corrigido": {
+        "question_type": "Múltipla Escolha Simples",
+        "discipline": "calculo diferencial e integral iii",
+        "taxonomy_level": "Lembrar",
+        "base_text": "Em aplicações de engenharia e de ciências exatas, o cálculo de integrais triplas permite determinar propriedades globais de sólidos com densidade variável, como volume, massa, centro de massa e momentos de inércia. Para isso, é essencial interpretar corretamente a função densidade e o domínio de integração.",
+        "stem": "Considere um sólido $E$ com densidade variável $\\rho(x,y,z)$. A expressão que calcula corretamente o momento de inércia desse sólido em relação ao eixo $z$ é:",
+        "statement_i": "",
+        "statement_ii": "",
+        "statement_iii": "",
+        "statement_iv": "",
+        "assertion_i": "",
+        "assertion_ii": "",
+        "option_a": "I_z=\\iiint_E z^2\\,\\rho(x,y,z)\\,dV.",
+        "option_b": "I_z=\\iiint_E (x^2+y^2)\\,\\rho(x,y,z)\\,dV.",
+        "option_c": "I_z=\\iiint_E (x+y)^2\\,\\rho(x,y,z)\\,dV.",
+        "option_d": "I_z=\\iiint_E (x^2+y^2+z^2)\\,\\rho(x,y,z)\\,dV.",
+        "option_e": "I_z=\\iiint_E xy\\,\\rho(x,y,z)\\,dV.",
+        "correct_option": "B"
+      },
+      "resolucao_independente": {
+        "alternativa_correta_apos_correcao": "B",
+        "justificativa_curta": "O momento de inércia em relação ao eixo z é dado pela integral tripla da distância ao quadrado até o eixo z, ponderada pela densidade. A distância de um ponto (x,y,z) ao eixo z é sqrt(x^2+y^2), logo o quadrado da distância é (x^2+y^2). Assim, a expressão correta é I_z = ∭_E (x^2+y^2) ρ(x,y,z) dV, que corresponde à alternativa B após o reposicionamento."
+      },
+      "alteracoes": [
+        {
+          "criterio_numero": 11,
+          "criterio_nome": "Comando do enunciado deve ser explícito",
+          "eixo": "FE",
+          "fonte_diagnostico": "codigo",
+          "problema_original": "O enunciado original ('a expressão correta é...') era considerado pouco explícito pelo verificador de código.",
+          "acao_realizada": "Reescrevi o enunciado para tornar o comando mais explícito e completo: 'A expressão que calcula corretamente o momento de inércia desse sólido em relação ao eixo z é:'"
+        },
+        {
+          "criterio_numero": 17,
+          "criterio_nome": "Aderência ao nível de Bloom declarado",
+          "eixo": "AP",
+          "fonte_diagnostico": "llm",
+          "problema_original": "O nível de Bloom declarado era 'Avaliar', mas a tarefa exigida (identificar a fórmula correta do momento de inércia) corresponde ao nível 'Lembrar'.",
+          "acao_realizada": "Ajustei o nível de Bloom declarado de 'Avaliar' para 'Lembrar', refletindo a operação cognitiva mínima exigida pelo item."
+        },
+        {
+          "criterio_numero": 19,
+          "criterio_nome": "Distribuição equilibrada do gabarito no conjunto",
+          "eixo": "APL",
+          "fonte_diagnostico": "codigo",
+          "problema_original": "O gabarito estava na letra A, que é a letra dominante no conjunto, gerando viés de posição.",
+          "acao_realizada": "Reposicionei o gabarito trocando os textos das alternativas A e B, sem alterar o conteúdo de nenhuma delas. O gabarito passou da letra A para a letra B."
+        }
+      ],
+      "criterios_ja_ok_preservados": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        20
+      ],
+      "alteracoes_fora_do_escopo": "Nenhuma",
+      "observacoes_finais": "Foram aplicadas apenas as correções exigidas pelos critérios diagnosticados: explicitação do comando do enunciado, reclassificação do nível de Bloom para 'Lembrar' e reposicionamento do gabarito da letra A para a letra B. O conteúdo matemático das alternativas foi preservado integralmente, apenas reordenado para fins do critério 19."
+    },
+    "status": "CORRIGIDO"
+  },
+  {
+    "question_id": 229,
+    "rodada": 2,
+    "timestamp": "2026-07-16T23:07:25.831939-03:00",
+    "item": {
+      "question_id": "229",
+      "question_type": "Múltipla Escolha Simples",
+      "discipline": "calculo diferencial e integral iii",
+      "taxonomy_level": "Lembrar",
+      "base_text": "Em aplicações de engenharia e de ciências exatas, o cálculo de integrais triplas permite determinar propriedades globais de sólidos com densidade variável, como volume, massa, centro de massa e momentos de inércia. Para isso, é essencial interpretar corretamente a função densidade e o domínio de integração.",
+      "stem": "Considere um sólido $E$ com densidade variável $\\rho(x,y,z)$. A expressão que calcula corretamente o momento de inércia desse sólido em relação ao eixo $z$ é:",
+      "statement_i": "",
+      "statement_ii": "",
+      "statement_iii": "",
+      "statement_iv": "",
+      "assertion_i": "",
+      "assertion_ii": "",
+      "option_a": "I_z=\\iiint_E z^2\\,\\rho(x,y,z)\\,dV.",
+      "option_b": "I_z=\\iiint_E (x^2+y^2)\\,\\rho(x,y,z)\\,dV.",
+      "option_c": "I_z=\\iiint_E (x+y)^2\\,\\rho(x,y,z)\\,dV.",
+      "option_d": "I_z=\\iiint_E (x^2+y^2+z^2)\\,\\rho(x,y,z)\\,dV.",
+      "option_e": "I_z=\\iiint_E xy\\,\\rho(x,y,z)\\,dV.",
+      "correct_option": "B"
+    },
+    "diagnostico_codigo": {
+      "o_que_melhorar": [
+        "[FE] explicitar o comando do enunciado"
+      ],
+      "n_melhorias": 1,
+      "descartar_auto": false
+    },
+    "avaliacao_llm": null,
+    "avaliacao_origem": null,
+    "erro_avaliacao_llm": "A resposta contém JSON inválido: Invalid \\escape: line 20 column 109 (char 1316)",
+    "criterios_ativos": [
+      11
+    ],
+    "correcao": {
+      "id": "229",
+      "item_corrigido": {
+        "question_type": "Múltipla Escolha Simples",
+        "discipline": "calculo diferencial e integral iii",
+        "taxonomy_level": "Lembrar",
+        "base_text": "Em aplicações de engenharia e de ciências exatas, o cálculo de integrais triplas permite determinar propriedades globais de sólidos com densidade variável, como volume, massa, centro de massa e momentos de inércia. Para isso, é essencial interpretar corretamente a função densidade e o domínio de integração.",
+        "stem": "Considere um sólido $E$ com densidade variável $\\rho(x,y,z)$. Assinale a alternativa que apresenta a expressão correta para calcular o momento de inércia desse sólido em relação ao eixo $z$.",
+        "statement_i": "",
+        "statement_ii": "",
+        "statement_iii": "",
+        "statement_iv": "",
+        "assertion_i": "",
+        "assertion_ii": "",
+        "option_a": "I_z=\\iiint_E z^2\\,\\rho(x,y,z)\\,dV.",
+        "option_b": "I_z=\\iiint_E (x^2+y^2)\\,\\rho(x,y,z)\\,dV.",
+        "option_c": "I_z=\\iiint_E (x+y)^2\\,\\rho(x,y,z)\\,dV.",
+        "option_d": "I_z=\\iiint_E (x^2+y^2+z^2)\\,\\rho(x,y,z)\\,dV.",
+        "option_e": "I_z=\\iiint_E xy\\,\\rho(x,y,z)\\,dV.",
+        "correct_option": "B"
+      },
+      "resolucao_independente": {
+        "alternativa_correta_apos_correcao": "B",
+        "justificativa_curta": "O momento de inércia em relação ao eixo z é dado pela integral tripla da densidade multiplicada pelo quadrado da distância ao eixo z, que é (x^2 + y^2). Portanto, a alternativa B é a correta."
+      },
+      "alteracoes": [
+        {
+          "criterio_numero": 11,
+          "criterio_nome": "Comando do enunciado deve ser explícito",
+          "eixo": "FE",
+          "fonte_diagnostico": "codigo",
+          "problema_original": "O enunciado original ('A expressão que calcula corretamente o momento de inércia desse sólido em relação ao eixo z é:') não continha um verbo de comando explícito (como 'assinale', 'escolha', 'indique'), deixando a tarefa implícita.",
+          "acao_realizada": "Reescrevi o enunciado para incluir o comando explícito 'Assinale a alternativa que apresenta...', tornando a tarefa clara e completa."
+        }
+      ],
+      "criterios_ja_ok_preservados": [
+        1,
+        3,
+        4,
+        5,
+        7,
+        15,
+        16,
+        17,
+        19
+      ],
+      "alteracoes_fora_do_escopo": "Nenhuma",
+      "observacoes_finais": "A correção limitou-se a explicitar o comando do enunciado, mantendo integralmente o texto-base, as alternativas e o gabarito (B), que já estavam corretos e adequados."
+    },
+    "status": "CORRIGIDO"
+  },
+  {
+    "question_id": 229,
+    "rodada": 3,
+    "timestamp": "2026-07-16T23:08:10.488837-03:00",
+    "item": {
+      "question_id": "229",
+      "question_type": "Múltipla Escolha Simples",
+      "discipline": "calculo diferencial e integral iii",
+      "taxonomy_level": "Lembrar",
+      "base_text": "Em aplicações de engenharia e de ciências exatas, o cálculo de integrais triplas permite determinar propriedades globais de sólidos com densidade variável, como volume, massa, centro de massa e momentos de inércia. Para isso, é essencial interpretar corretamente a função densidade e o domínio de integração.",
+      "stem": "Considere um sólido $E$ com densidade variável $\\rho(x,y,z)$. Assinale a alternativa que apresenta a expressão correta para calcular o momento de inércia desse sólido em relação ao eixo $z$.",
+      "statement_i": "",
+      "statement_ii": "",
+      "statement_iii": "",
+      "statement_iv": "",
+      "assertion_i": "",
+      "assertion_ii": "",
+      "option_a": "I_z=\\iiint_E z^2\\,\\rho(x,y,z)\\,dV.",
+      "option_b": "I_z=\\iiint_E (x^2+y^2)\\,\\rho(x,y,z)\\,dV.",
+      "option_c": "I_z=\\iiint_E (x+y)^2\\,\\rho(x,y,z)\\,dV.",
+      "option_d": "I_z=\\iiint_E (x^2+y^2+z^2)\\,\\rho(x,y,z)\\,dV.",
+      "option_e": "I_z=\\iiint_E xy\\,\\rho(x,y,z)\\,dV.",
+      "correct_option": "B"
+    },
+    "diagnostico_codigo": {
+      "o_que_melhorar": [],
+      "n_melhorias": 0,
+      "descartar_auto": false
+    },
+    "avaliacao_llm": null,
+    "avaliacao_origem": null,
+    "erro_avaliacao_llm": "A resposta contém JSON inválido: Invalid \\escape: line 20 column 99 (char 1341)",
+    "criterios_ativos": [],
+    "status": "APROVADO"
+  }
+]

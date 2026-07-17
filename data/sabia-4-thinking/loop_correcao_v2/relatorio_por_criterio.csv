@@ -1,0 +1,27 @@
+﻿criterio_numero,criterio_nome,tentativas,resolvidos,taxa_sucesso_%
+17,Aderência ao nível de Bloom declarado,150,69,46.0
+19,Distribuição equilibrada do gabarito no conjunto,88,85,96.6
+9,Evitar pistas verbais (repetição de palavras do enunciado),76,12,15.8
+6,Gabarito não deve se destacar por tamanho,48,25,52.1
+11,Comando do enunciado deve ser explícito,39,33,84.6
+7,Distratores devem ser plausíveis,39,21,53.8
+15,Texto-base deve ser necessário,25,8,32.0
+16,Alternativas devem tratar do conteúdo do item,20,5,25.0
+5,Paralelismo: extensão homogênea,19,16,84.2
+4,Correção factual do gabarito,10,10,100.0
+12,Evitar lacunas no meio do enunciado,9,9,100.0
+7,Distratores devem ser plausíveis (remoção de termos absolutos),8,7,87.5
+3,Gabarito não pode repetir um distrator,7,3,42.9
+2,Alternativas não podem ser equivalentes,4,1,25.0
+18,Conformidade com o tipo de questão declarado,4,4,100.0
+10,Evitar enunciado em formulação negativa,4,1,25.0
+7,Distratores devem ser plausíveis (remover termos absolutos),2,0,0.0
+7,Distratores devem ser plausíveis (sem termos absolutos),2,1,50.0
+12,Remover lacuna do enunciado,2,2,100.0
+1,Gabarito deve existir e ser único,1,1,100.0
+5,Paralelismo — extensão homogênea,1,0,0.0
+7,Suavizar termos absolutos nos distratores,1,1,100.0
+9,Evitar pistas verbais (palavra do enunciado só no gabarito),1,0,0.0
+7,Distratores devem ser plausíveis (remoção de termos absolutos/generalizações),1,1,100.0
+7,Distratores devem ser plausíveis (suavizar termos absolutos),1,1,100.0
+19,Reposicionar o gabarito (viés de letra dominante),1,1,100.0

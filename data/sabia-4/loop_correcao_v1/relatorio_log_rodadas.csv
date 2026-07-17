@@ -1,0 +1,292 @@
+﻿question_id,rodada,status_rodada,avaliacao_origem,criterios_ativos_no_inicio_da_rodada,criterios_que_o_corretor_tentou_resolver
+2,1,CORRIGIDO,cache,"[7, 15, 16, 17]","[7, 17]"
+2,2,CORRIGIDO,llm,"[5, 6, 7, 9, 16, 17]","[5, 6, 7, 9, 17]"
+2,3,LIMITE_RODADAS_ATINGIDO,llm,"[6, 7, 9]",[]
+22,1,CORRIGIDO,cache,"[9, 11, 17, 19]","[11, 17, 19]"
+22,2,CORRIGIDO,llm,[9],[9]
+22,3,LIMITE_RODADAS_ATINGIDO,llm,[9],[]
+26,1,CORRIGIDO,cache,"[12, 16, 17, 19]","[12, 17, 19]"
+26,2,CORRIGIDO,llm,"[16, 17]","[17, 16]"
+26,3,LIMITE_RODADAS_ATINGIDO,llm,"[16, 17]",[]
+32,1,CORRIGIDO,cache,"[11, 17]","[11, 17]"
+32,2,APROVADO,llm,[],[]
+36,1,CORRIGIDO,cache,"[9, 17, 19]","[17, 19]"
+36,2,CORRIGIDO,llm,[9],[9]
+36,3,LIMITE_RODADAS_ATINGIDO,llm,[9],[]
+37,1,CORRIGIDO,cache,"[9, 17, 19]","[17, 19]"
+37,2,CORRIGIDO,llm,[9],[9]
+37,3,LIMITE_RODADAS_ATINGIDO,llm,[9],[]
+39,1,CORRIGIDO,cache,"[6, 7, 11, 17, 19]","[11, 17, 6, 7, 19]"
+39,2,CORRIGIDO,llm,"[6, 11]","[6, 11]"
+39,3,LIMITE_RODADAS_ATINGIDO,llm,[11],[]
+56,1,CORRIGIDO,cache,"[6, 17, 19]","[6, 17, 19]"
+56,2,CORRIGIDO,llm,"[1, 3, 4, 15, 16]","[4, 15]"
+56,3,LIMITE_RODADAS_ATINGIDO,llm,[19],[]
+62,1,CORRIGIDO,cache,"[6, 10, 19]","[6, 10, 19]"
+62,2,CORRIGIDO,llm,"[6, 10]","[10, 6]"
+62,3,LIMITE_RODADAS_ATINGIDO,,"[6, 10, 17]",[]
+63,1,CORRIGIDO,cache,"[6, 17, 19]","[6, 17, 19]"
+63,2,CORRIGIDO,llm,"[1, 3, 4, 6, 9, 15, 16]","[4, 3, 15, 16]"
+63,3,LIMITE_RODADAS_ATINGIDO,llm,[19],[]
+66,1,CORRIGIDO,cache,"[6, 9, 17, 19]","[6, 9, 17, 19]"
+66,2,CORRIGIDO,llm,"[11, 19]","[11, 19]"
+66,3,LIMITE_RODADAS_ATINGIDO,llm,[17],[]
+69,1,CORRIGIDO,cache,[19],[19]
+69,2,APROVADO,llm,[],[]
+74,1,CORRIGIDO,cache,"[16, 17, 19]","[17, 19]"
+74,2,CORRIGIDO,llm,"[16, 17]",[17]
+74,3,LIMITE_RODADAS_ATINGIDO,llm,[16],[]
+78,1,CORRIGIDO,cache,"[9, 17, 19]","[17, 19]"
+78,2,CORRIGIDO,llm,[9],[9]
+78,3,LIMITE_RODADAS_ATINGIDO,llm,[9],[]
+85,1,CORRIGIDO,cache,"[7, 17, 19]","[17, 19]"
+85,2,CORRIGIDO,llm,"[1, 3, 4, 7, 15, 16]","[1, 3, 4, 7, 15, 16]"
+85,3,LIMITE_RODADAS_ATINGIDO,llm,[19],[]
+86,1,CORRIGIDO,cache,"[7, 11, 19]","[7, 11, 19]"
+86,2,CORRIGIDO,llm,[6],[6]
+86,3,APROVADO,llm,[],[]
+93,1,CORRIGIDO,cache,"[6, 7, 11, 17]","[6, 7, 11, 17]"
+93,2,APROVADO,,[],[]
+98,1,CORRIGIDO,cache,"[9, 17, 19]","[17, 19]"
+98,2,CORRIGIDO,llm,[9],[9]
+98,3,LIMITE_RODADAS_ATINGIDO,llm,[9],[]
+106,1,CORRIGIDO,cache,"[15, 17, 19]","[19, 17]"
+106,2,CORRIGIDO,llm,"[1, 3, 4, 7, 15, 16, 17]","[4, 15, 16]"
+106,3,LIMITE_RODADAS_ATINGIDO,llm,"[6, 7, 9, 15, 17, 19]",[]
+109,1,CORRIGIDO,cache,"[9, 17, 19]","[17, 9, 19]"
+109,2,CORRIGIDO,llm,"[9, 17]","[9, 17]"
+109,3,LIMITE_RODADAS_ATINGIDO,llm,"[9, 17]",[]
+117,1,CORRIGIDO,cache,"[7, 11, 19]","[7, 11, 19]"
+117,2,CORRIGIDO,llm,"[1, 3, 4, 7, 15, 16]","[4, 15, 16]"
+117,3,LIMITE_RODADAS_ATINGIDO,llm,[19],[]
+118,1,CORRIGIDO,cache,"[6, 7, 9, 17]","[6, 7, 9, 17]"
+118,2,CORRIGIDO,llm,"[6, 9, 17]","[6, 9, 17]"
+118,3,LIMITE_RODADAS_ATINGIDO,llm,"[6, 7, 17]",[]
+122,1,CORRIGIDO,cache,"[3, 17, 19]","[19, 17]"
+122,2,CORRIGIDO,llm,"[1, 2, 3, 4]","[4, 1]"
+122,3,LIMITE_RODADAS_ATINGIDO,llm,"[3, 19]",[]
+123,1,CORRIGIDO,cache,"[9, 19]","[19, 9]"
+123,2,CORRIGIDO,llm,[9],[9]
+123,3,LIMITE_RODADAS_ATINGIDO,llm,[9],[]
+131,1,CORRIGIDO,cache,"[17, 19]","[17, 19]"
+131,2,APROVADO,llm,[],[]
+132,1,CORRIGIDO,cache,"[17, 19]","[17, 19]"
+132,2,APROVADO,llm,[],[]
+141,1,CORRIGIDO,cache,"[7, 11, 17, 19]","[7, 11, 19]"
+141,2,CORRIGIDO,llm,"[1, 3, 4, 7, 17]","[1, 3, 4, 7]"
+141,3,LIMITE_RODADAS_ATINGIDO,llm,"[7, 17, 19]",[]
+151,1,CORRIGIDO,cache,"[17, 19]",[19]
+151,2,CORRIGIDO,llm,[17],[17]
+151,3,LIMITE_RODADAS_ATINGIDO,llm,[17],[]
+160,1,CORRIGIDO,cache,"[15, 17, 19]","[15, 19]"
+160,2,CORRIGIDO,llm,"[1, 3, 4, 6, 15, 18]","[4, 6, 18, 15]"
+160,3,LIMITE_RODADAS_ATINGIDO,llm,"[15, 19]",[]
+165,1,CORRIGIDO,cache,"[17, 19]","[17, 19]"
+165,2,APROVADO,llm,[],[]
+167,1,CORRIGIDO,cache,"[9, 19]","[9, 19]"
+167,2,CORRIGIDO,llm,"[9, 17]","[17, 9]"
+167,3,LIMITE_RODADAS_ATINGIDO,llm,[9],[]
+171,1,CORRIGIDO,cache,"[6, 17, 19]","[6, 19, 17]"
+171,2,CORRIGIDO,llm,[6],[6]
+171,3,LIMITE_RODADAS_ATINGIDO,llm,[17],[]
+184,1,CORRIGIDO,cache,"[9, 11, 17, 19]","[11, 17, 19]"
+184,2,CORRIGIDO,llm,"[5, 6, 7, 9]","[5, 9, 6]"
+184,3,LIMITE_RODADAS_ATINGIDO,llm,"[7, 9]",[]
+186,1,CORRIGIDO,cache,"[2, 3, 11, 15, 17, 19]","[17, 19]"
+186,2,CORRIGIDO,llm,"[1, 2, 3, 4, 15, 17]",[4]
+186,3,LIMITE_RODADAS_ATINGIDO,llm,"[2, 3, 15, 17, 19]",[]
+224,1,CORRIGIDO,cache,"[7, 9, 11]","[7, 9, 11]"
+224,2,CORRIGIDO,llm,[9],[9]
+224,3,APROVADO,llm,[],[]
+227,1,CORRIGIDO,cache,"[7, 12, 17, 19]","[12, 19, 17]"
+227,2,CORRIGIDO,llm,"[7, 17]",[17]
+227,3,APROVADO,llm,[],[]
+228,1,CORRIGIDO,cache,[17],[17]
+228,2,CORRIGIDO,llm,[17],[17]
+228,3,LIMITE_RODADAS_ATINGIDO,llm,[17],[]
+229,1,CORRIGIDO,cache,"[11, 17, 19]","[11, 17, 19]"
+229,2,CORRIGIDO,llm,[17],[17]
+229,3,LIMITE_RODADAS_ATINGIDO,llm,"[5, 10, 11, 12, 18]",[]
+238,1,CORRIGIDO,cache,"[12, 17, 19]","[12, 17, 19]"
+238,2,CORRIGIDO,llm,[17],[17]
+238,3,LIMITE_RODADAS_ATINGIDO,llm,[17],[]
+241,1,CORRIGIDO,cache,"[9, 17]","[17, 9]"
+241,2,CORRIGIDO,llm,[9],[9]
+241,3,LIMITE_RODADAS_ATINGIDO,llm,[9],[]
+251,1,CORRIGIDO,cache,"[12, 15, 17, 19]","[12, 17, 19]"
+251,2,CORRIGIDO,llm,"[15, 17, 18]","[17, 18, 15]"
+251,3,LIMITE_RODADAS_ATINGIDO,llm,"[2, 3, 15, 16]",[]
+252,1,CORRIGIDO,cache,"[5, 6, 12, 17, 19]","[12, 17, 5, 6, 19]"
+252,2,CORRIGIDO,,[9],[9]
+252,3,LIMITE_RODADAS_ATINGIDO,llm,"[7, 17]",[]
+260,1,CORRIGIDO,cache,"[11, 17, 19]","[11, 19]"
+260,2,CORRIGIDO,llm,"[1, 3, 4, 17]","[4, 17]"
+260,3,LIMITE_RODADAS_ATINGIDO,llm,"[17, 19]",[]
+288,1,CORRIGIDO,cache,"[6, 7, 9, 17, 19]","[6, 9, 17, 19]"
+288,2,CORRIGIDO,llm,"[1, 3, 4, 5, 7, 9, 15, 16, 17]","[4, 15, 5, 9]"
+288,3,LIMITE_RODADAS_ATINGIDO,llm,"[9, 17, 19]",[]
+289,1,CORRIGIDO,cache,"[15, 17, 19]","[15, 19]"
+289,2,CORRIGIDO,llm,"[1, 3, 4, 6, 7, 15, 17, 18]","[4, 17, 18, 15]"
+289,3,LIMITE_RODADAS_ATINGIDO,llm,"[15, 19]",[]
+312,1,CORRIGIDO,cache,"[12, 17, 19]","[12, 19]"
+312,2,CORRIGIDO,llm,"[7, 17]","[17, 7]"
+312,3,LIMITE_RODADAS_ATINGIDO,llm,[17],[]
+322,1,CORRIGIDO,cache,"[17, 19]","[17, 19]"
+322,2,APROVADO,llm,[],[]
+327,1,CORRIGIDO,cache,"[12, 16, 17, 19]","[12, 17, 19]"
+327,2,CORRIGIDO,llm,"[16, 17]","[16, 17]"
+327,3,LIMITE_RODADAS_ATINGIDO,llm,"[6, 7, 16, 17]",[]
+331,1,CORRIGIDO,cache,"[9, 17, 19]","[17, 19]"
+331,2,CORRIGIDO,llm,"[9, 11]","[11, 9]"
+331,3,LIMITE_RODADAS_ATINGIDO,llm,"[9, 11]",[]
+334,1,CORRIGIDO,cache,"[9, 17, 19]","[17, 19]"
+334,2,CORRIGIDO,llm,[9],[9]
+334,3,APROVADO,llm,[],[]
+343,1,CORRIGIDO,cache,"[7, 11, 17]","[11, 17]"
+343,2,CORRIGIDO,llm,"[7, 17]","[7, 17]"
+343,3,LIMITE_RODADAS_ATINGIDO,llm,[7],[]
+356,1,CORRIGIDO,cache,"[7, 9, 11, 17]","[7, 9, 11, 17]"
+356,2,CORRIGIDO,,[9],[9]
+356,3,APROVADO,,[],[]
+360,1,CORRIGIDO,cache,"[6, 17, 19]","[6, 17, 19]"
+360,2,CORRIGIDO,llm,[6],[6]
+360,3,APROVADO,llm,[],[]
+362,1,CORRIGIDO,cache,"[5, 17, 19]","[5, 17, 19]"
+362,2,CORRIGIDO,llm,"[17, 19]","[17, 19]"
+362,3,LIMITE_RODADAS_ATINGIDO,llm,"[17, 18, 19]",[]
+364,1,CORRIGIDO,cache,"[6, 7, 11, 17, 19]","[6, 11, 19, 17]"
+364,2,CORRIGIDO,llm,"[6, 7, 17]","[6, 17]"
+364,3,LIMITE_RODADAS_ATINGIDO,llm,"[7, 17]",[]
+374,1,CORRIGIDO,cache,"[6, 7, 9, 11, 17, 19]","[9, 11, 7, 19]"
+374,2,CORRIGIDO,llm,"[1, 3, 4, 6, 7, 9, 10, 11, 12, 15, 16, 17, 19]","[17, 11, 15, 19]"
+374,3,LIMITE_RODADAS_ATINGIDO,llm,"[1, 3, 4, 9, 15, 16, 17]",[]
+405,1,CORRIGIDO,cache,"[7, 11, 17, 19]","[7, 11, 19]"
+405,2,CORRIGIDO,llm,[17],[17]
+405,3,LIMITE_RODADAS_ATINGIDO,llm,"[5, 7]",[]
+418,1,CORRIGIDO,cache,"[7, 11, 19]","[11, 7, 19]"
+418,2,CORRIGIDO,llm,"[1, 3, 4, 7, 15, 16]","[4, 3, 7, 16]"
+418,3,LIMITE_RODADAS_ATINGIDO,,[19],[]
+438,1,CORRIGIDO,cache,"[17, 19]","[17, 19]"
+438,2,CORRIGIDO,llm,[9],[9]
+438,3,LIMITE_RODADAS_ATINGIDO,llm,[7],[]
+457,1,CORRIGIDO,cache,"[7, 16, 17, 19]","[7, 19, 17]"
+457,2,CORRIGIDO,llm,"[16, 17]",[17]
+457,3,LIMITE_RODADAS_ATINGIDO,llm,"[16, 17]",[]
+470,1,CORRIGIDO,cache,"[7, 11, 12, 17]","[11, 12, 17, 7]"
+470,2,CORRIGIDO,llm,"[5, 6, 7, 9, 17]","[5, 6, 7, 9, 17]"
+470,3,LIMITE_RODADAS_ATINGIDO,llm,"[5, 9, 17]",[]
+483,1,CORRIGIDO,cache,"[11, 17, 19]","[11, 19]"
+483,2,CORRIGIDO,llm,[17],[17]
+483,3,LIMITE_RODADAS_ATINGIDO,llm,[17],[]
+489,1,CORRIGIDO,cache,"[9, 16, 17, 19]","[17, 19]"
+489,2,CORRIGIDO,llm,"[7, 9, 16]","[9, 7, 16]"
+489,3,LIMITE_RODADAS_ATINGIDO,llm,"[9, 16]",[]
+500,1,CORRIGIDO,cache,"[7, 9, 17]","[17, 7, 9]"
+500,2,CORRIGIDO,llm,"[9, 17]","[17, 9]"
+500,3,LIMITE_RODADAS_ATINGIDO,llm,[9],[]
+503,1,CORRIGIDO,cache,"[7, 11, 17]","[7, 11, 17]"
+503,2,CORRIGIDO,llm,"[6, 17]","[6, 17]"
+503,3,LIMITE_RODADAS_ATINGIDO,llm,"[7, 17]",[]
+512,1,CORRIGIDO,cache,"[5, 7, 16, 17, 19]","[5, 7, 17]"
+512,2,CORRIGIDO,llm,"[16, 17, 19]","[16, 17, 19]"
+512,3,LIMITE_RODADAS_ATINGIDO,llm,"[16, 17]",[]
+519,1,CORRIGIDO,cache,"[7, 17, 19]","[7, 17, 19]"
+519,2,CORRIGIDO,,[17],[17]
+519,3,LIMITE_RODADAS_ATINGIDO,llm,"[7, 17, 19]",[]
+526,1,CORRIGIDO,cache,"[7, 17, 19]","[7, 17, 19]"
+526,2,CORRIGIDO,llm,"[1, 3, 4, 7, 17]","[4, 17]"
+526,3,LIMITE_RODADAS_ATINGIDO,llm,"[17, 19]",[]
+536,1,CORRIGIDO,cache,"[12, 17, 19]","[12, 17, 19]"
+536,2,CORRIGIDO,llm,"[16, 17]",[17]
+536,3,LIMITE_RODADAS_ATINGIDO,llm,"[16, 17]",[]
+540,1,CORRIGIDO,cache,"[6, 7, 9]","[6, 9]"
+540,2,CORRIGIDO,llm,"[7, 9]","[9, 7]"
+540,3,LIMITE_RODADAS_ATINGIDO,llm,"[7, 9, 17]",[]
+567,1,CORRIGIDO,cache,"[11, 17, 19]","[11, 17, 19]"
+567,2,APROVADO,,[],[]
+568,1,CORRIGIDO,cache,"[7, 17]","[7, 17]"
+568,2,CORRIGIDO,llm,[17],[17]
+568,3,LIMITE_RODADAS_ATINGIDO,llm,[17],[]
+589,1,CORRIGIDO,cache,"[7, 9, 11]","[11, 9]"
+589,2,CORRIGIDO,llm,"[6, 15]","[6, 15]"
+589,3,LIMITE_RODADAS_ATINGIDO,llm,"[15, 16]",[]
+591,1,CORRIGIDO,cache,"[7, 17, 19]","[7, 17, 19]"
+591,2,CORRIGIDO,llm,"[7, 17]","[7, 17]"
+591,3,LIMITE_RODADAS_ATINGIDO,llm,"[5, 6, 7, 9, 17]",[]
+601,1,CORRIGIDO,cache,"[12, 17, 19]","[12, 17, 19]"
+601,2,CORRIGIDO,llm,[17],[17]
+601,3,LIMITE_RODADAS_ATINGIDO,llm,[17],[]
+615,1,CORRIGIDO,cache,"[6, 7, 9, 11, 17]","[11, 17, 6, 7, 9]"
+615,2,CORRIGIDO,,"[6, 7, 9]","[6, 7, 9]"
+615,3,LIMITE_RODADAS_ATINGIDO,,"[6, 9]",[]
+620,1,CORRIGIDO,cache,"[7, 9, 17, 19]","[9, 17, 19]"
+620,2,CORRIGIDO,llm,"[5, 6, 7, 9, 17]","[17, 5, 9, 7]"
+620,3,LIMITE_RODADAS_ATINGIDO,llm,"[5, 6, 7, 9, 17]",[]
+623,1,CORRIGIDO,cache,"[5, 6, 7, 9, 15, 16, 17, 19]","[5, 6, 7, 9, 15, 16, 17, 19]"
+623,2,CORRIGIDO,llm,"[1, 3, 4, 7, 9, 15, 16, 17]","[4, 15]"
+623,3,LIMITE_RODADAS_ATINGIDO,llm,"[5, 7, 17, 19]",[]
+645,1,CORRIGIDO,cache,"[9, 17, 19]","[17, 9, 19]"
+645,2,CORRIGIDO,llm,[9],[9]
+645,3,APROVADO,llm,[],[]
+651,1,CORRIGIDO,cache,"[9, 17, 19]","[9, 17, 19]"
+651,2,CORRIGIDO,llm,"[9, 17]","[17, 9]"
+651,3,LIMITE_RODADAS_ATINGIDO,llm,"[9, 17]",[]
+669,1,CORRIGIDO,cache,"[9, 17, 19]","[17, 9, 19]"
+669,2,CORRIGIDO,llm,[9],[9]
+669,3,LIMITE_RODADAS_ATINGIDO,llm,[9],[]
+670,1,CORRIGIDO,cache,"[9, 19]",[19]
+670,2,CORRIGIDO,llm,[9],[9]
+670,3,LIMITE_RODADAS_ATINGIDO,llm,[9],[]
+690,1,CORRIGIDO,cache,"[6, 7, 17, 19]","[6, 7, 17, 19]"
+690,2,CORRIGIDO,llm,"[1, 3, 4, 6, 7, 9, 15, 16, 17]","[4, 3, 7, 9, 17]"
+690,3,LIMITE_RODADAS_ATINGIDO,llm,"[6, 7, 17, 19]",[]
+700,1,CORRIGIDO,cache,"[6, 11, 15, 17]","[6, 11, 15, 17]"
+700,2,CORRIGIDO,llm,"[6, 15, 17]","[6, 17]"
+700,3,LIMITE_RODADAS_ATINGIDO,llm,"[15, 17]",[]
+704,1,CORRIGIDO,cache,"[11, 15, 17, 19]","[11, 17, 19]"
+704,2,CORRIGIDO,llm,"[17, 19]","[17, 19]"
+704,3,LIMITE_RODADAS_ATINGIDO,llm,[17],[]
+707,1,CORRIGIDO,cache,"[1, 2, 3, 4, 5, 6, 7, 9, 15, 17, 18, 19]","[2, 3, 4, 5, 6, 18, 19]"
+707,2,CORRIGIDO,llm,[15],[15]
+707,3,LIMITE_RODADAS_ATINGIDO,llm,[15],[]
+729,1,CORRIGIDO,cache,"[7, 16, 17]","[17, 7, 16]"
+729,2,CORRIGIDO,llm,"[7, 9, 16, 17]",[17]
+729,3,LIMITE_RODADAS_ATINGIDO,llm,"[9, 16, 17]",[]
+743,1,CORRIGIDO,cache,"[7, 11, 17]","[7, 11, 17]"
+743,2,CORRIGIDO,llm,[17],[17]
+743,3,LIMITE_RODADAS_ATINGIDO,llm,[],[]
+753,1,CORRIGIDO,cache,"[3, 5, 6, 7, 9, 15, 18, 19]","[3, 5, 6, 19]"
+753,2,CORRIGIDO,llm,"[1, 3, 4, 7, 15]",[4]
+753,3,LIMITE_RODADAS_ATINGIDO,llm,"[7, 15, 19]",[]
+767,1,CORRIGIDO,cache,"[6, 7, 11, 17]","[6, 7, 11, 17]"
+767,2,APROVADO,llm,[],[]
+777,1,CORRIGIDO,cache,"[7, 15, 16, 17]","[7, 15, 16, 17]"
+777,2,CORRIGIDO,llm,"[16, 17]",[17]
+777,3,LIMITE_RODADAS_ATINGIDO,llm,"[16, 17]",[]
+787,1,CORRIGIDO,cache,"[7, 9, 17, 19]","[17, 19]"
+787,2,CORRIGIDO,llm,"[7, 9, 11]","[11, 9, 7]"
+787,3,LIMITE_RODADAS_ATINGIDO,llm,"[9, 17]",[]
+792,1,CORRIGIDO,cache,"[7, 12, 15, 16, 17, 19]","[12, 7, 19]"
+792,2,CORRIGIDO,llm,"[1, 3, 4, 7, 15, 16, 17]","[1, 3, 4, 15, 16, 17]"
+792,3,LIMITE_RODADAS_ATINGIDO,llm,"[17, 19]",[]
+794,1,CORRIGIDO,cache,"[6, 15, 17, 19]","[6, 17, 19]"
+794,2,CORRIGIDO,llm,"[6, 7, 15, 17]","[6, 17]"
+794,3,LIMITE_RODADAS_ATINGIDO,llm,"[6, 15, 17]",[]
+801,1,CORRIGIDO,cache,"[9, 17, 19]","[9, 17, 19]"
+801,2,CORRIGIDO,llm,"[9, 17]","[17, 9]"
+801,3,LIMITE_RODADAS_ATINGIDO,llm,"[9, 17]",[]
+808,1,CORRIGIDO,cache,"[11, 17, 19]","[11, 19]"
+808,2,CORRIGIDO,llm,"[1, 3, 4, 11, 17]","[4, 11]"
+808,3,LIMITE_RODADAS_ATINGIDO,llm,"[11, 17, 19]",[]
+818,1,CORRIGIDO,cache,"[7, 17, 19]","[7, 17, 19]"
+818,2,CORRIGIDO,llm,"[17, 19]","[17, 19]"
+818,3,LIMITE_RODADAS_ATINGIDO,llm,[17],[]
+827,1,CORRIGIDO,cache,"[7, 11, 17, 19]","[11, 17, 19, 7]"
+827,2,CORRIGIDO,llm,"[5, 6, 7, 9, 17]","[17, 5, 6, 9]"
+827,3,LIMITE_RODADAS_ATINGIDO,llm,"[5, 6, 7, 9]",[]
+840,1,CORRIGIDO,cache,"[5, 17, 19]","[5, 17, 19]"
+840,2,CORRIGIDO,llm,"[5, 17]","[17, 5]"
+840,3,LIMITE_RODADAS_ATINGIDO,llm,"[5, 17]",[]
+844,1,CORRIGIDO,cache,"[11, 17, 19]","[11, 19]"
+844,2,CORRIGIDO,llm,[17],[17]
+844,3,LIMITE_RODADAS_ATINGIDO,llm,"[11, 17]",[]

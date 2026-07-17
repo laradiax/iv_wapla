@@ -1,0 +1,29 @@
+Avalie o item educacional abaixo seguindo rigorosamente os critérios, o procedimento obrigatório e o formato de saída definidos no prompt de sistema.
+Preencha todos os campos do JSON com base apenas nas informações fornecidas no item. Quando algum campo não estiver disponível ou não puder ser avaliado com segurança, use "NAO_AVALIAVEL".
+
+Este item pertence a uma base de questões rejeitadas por especialistas humanos. Sua avaliação deve ser baseada na analise e comparação entre texto-base, enunciado, alternativas, gabarito, objetivo de aprendizagem e anotação narrativa.
+
+## ITEM
+ID: {id}
+Tipo de questão: {tipo_questao}
+Disciplina: {disciplina}
+Nível de Bloom declarado: {bloom_declarado}
+
+Texto-base:
+{texto_base}
+
+Enunciado:
+{enunciado}
+
+Alternativas:
+A. {alternativa_a}
+B. {alternativa_b}
+C. {alternativa_c}
+D. {alternativa_d}
+E. {alternativa_e}
+
+Gabarito declarado: {gabarito}
+
+
+
+

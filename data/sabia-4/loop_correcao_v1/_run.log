@@ -1,0 +1,628 @@
+[rodar_top100] 100 item(ns) de itens_para_refino_top100.csv | até 3 rodada(s) cada | max_workers=5
+=== [1/100] question_id=2: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [2/100] question_id=22: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [3/100] question_id=26: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [4/100] question_id=32: já concluído (APROVADO), pulando ===
+=== [5/100] question_id=36: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [6/100] question_id=37: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [7/100] question_id=39: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [8/100] question_id=56: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [9/100] question_id=62: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [10/100] question_id=63: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [11/100] question_id=66: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [12/100] question_id=69: já concluído (APROVADO), pulando ===
+=== [13/100] question_id=74: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [14/100] question_id=78: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [15/100] question_id=85: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [16/100] question_id=86: já concluído (APROVADO), pulando ===
+=== [17/100] question_id=93: já concluído (APROVADO), pulando ===
+=== [18/100] question_id=98: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [19/100] question_id=106: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [20/100] question_id=109: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [21/100] question_id=117: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [22/100] question_id=118: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [23/100] question_id=122: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [24/100] question_id=123: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [25/100] question_id=131: já concluído (APROVADO), pulando ===
+=== [26/100] question_id=132: já concluído (APROVADO), pulando ===
+=== [27/100] question_id=141: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [28/100] question_id=151: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [29/100] question_id=160: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [30/100] question_id=165: já concluído (APROVADO), pulando ===
+=== [31/100] question_id=167: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [32/100] question_id=171: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [33/100] question_id=184: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [34/100] question_id=186: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [35/100] question_id=224: já concluído (APROVADO), pulando ===
+=== [36/100] question_id=227: já concluído (APROVADO), pulando ===
+=== [37/100] question_id=228: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [38/100] question_id=229: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [39/100] question_id=238: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [40/100] question_id=241: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [41/100] question_id=251: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [42/100] question_id=252: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [43/100] question_id=260: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [44/100] question_id=288: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [45/100] question_id=289: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [46/100] question_id=312: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [47/100] question_id=322: já concluído (APROVADO), pulando ===
+=== [48/100] question_id=327: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [49/100] question_id=331: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [50/100] question_id=334: já concluído (APROVADO), pulando ===
+=== [51/100] question_id=343: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [52/100] question_id=356: já concluído (APROVADO), pulando ===
+=== [53/100] question_id=360: já concluído (APROVADO), pulando ===
+=== [54/100] question_id=362: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [55/100] question_id=364: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [56/100] question_id=374: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [57/100] question_id=405: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [58/100] question_id=418: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+[loop] 42 item(ns) pendente(s) de 100 | max_workers=5
+[loop] question_id=483: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [483] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+[loop] question_id=470: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [470] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 11, 12, 17] | decisão LLM=REVISAR
+[loop] question_id=438: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+[loop] question_id=457: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [438] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[17, 19] | decisão LLM=APROVAR
+  [457] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[7, 16, 17, 19] | decisão LLM=REVISAR
+[loop] question_id=489: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [489] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[9, 16, 17, 19] | decisão LLM=REVISAR
+  [483] rodada 2/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [457] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[16, 17] | decisão LLM=REVISAR
+  [470] rodada 2/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[5, 6, 7, 9, 17] | decisão LLM=REVISAR
+  [438] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [489] rodada 2/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[7, 9, 16] | decisão LLM=REVISAR
+  [483] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [483] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=483: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/483.json
+[loop] question_id=500: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [500] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[7, 9, 17] | decisão LLM=APROVAR
+  [457] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[16, 17] | decisão LLM=REVISAR
+  [457] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=457: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/457.json
+[loop] question_id=503: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [503] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 11, 17] | decisão LLM=REVISAR
+  [489] rodada 3/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[9, 16] | decisão LLM=APROVAR
+  [489] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=489: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/489.json
+[loop] question_id=512: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [512] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[5, 7, 16, 17, 19] | decisão LLM=REVISAR
+  [470] rodada 3/3 (avaliação: llm): 3 problema(s) de código | critérios ativos=[5, 9, 17] | decisão LLM=REVISAR
+  [470] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=470: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/470.json
+[loop] question_id=519: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [519] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [438] rodada 3/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[7] | decisão LLM=REVISAR
+  [438] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=438: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/438.json
+[loop] question_id=526: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [526] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [503] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[6, 17] | decisão LLM=REVISAR
+  [500] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [512] rodada 2/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[16, 17, 19] | decisão LLM=REVISAR
+  [503] rodada 3/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=REVISAR
+  [503] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=503: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/503.json
+[loop] question_id=536: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [536] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[12, 17, 19] | decisão LLM=REVISAR
+  [512] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[16, 17] | decisão LLM=REVISAR
+  [512] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=512: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/512.json
+[loop] question_id=540: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [540] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[6, 7, 9] | decisão LLM=REVISAR
+  [519] ERRO inesperado: Request timed out.
+[loop] question_id=567: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [567] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+  [526] ERRO inesperado: Request timed out.
+[loop] question_id=568: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [568] rodada 1/3 (avaliação: cache): 1 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=REVISAR
+  [500] ERRO inesperado: Request timed out.
+[loop] question_id=589: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [589] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 9, 11] | decisão LLM=REVISAR
+  [536] ERRO inesperado: Request timed out.
+[loop] question_id=591: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [591] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [540] ERRO inesperado: Request timed out.
+[loop] question_id=601: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [601] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[12, 17, 19] | decisão LLM=REVISAR
+  [567] ERRO inesperado: Request timed out.
+[loop] question_id=615: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [615] rodada 1/3 (avaliação: cache): 4 problema(s) de código | critérios ativos=[6, 7, 9, 11, 17] | decisão LLM=REVISAR
+  [568] ERRO inesperado: Request timed out.
+[loop] question_id=620: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [620] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 9, 17, 19] | decisão LLM=REVISAR
+  [589] ERRO inesperado: Request timed out.
+[loop] question_id=623: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [623] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[5, 6, 7, 9, 15, 16, 17, 19] | decisão LLM=REJEITAR
+  [591] ERRO inesperado: Request timed out.
+[loop] question_id=645: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [645] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=REVISAR
+  [601] ERRO inesperado: Request timed out.
+[loop] question_id=651: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [651] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=APROVAR
+  [615] ERRO inesperado: Request timed out.
+[loop] question_id=669: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [669] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=REVISAR
+  [623] ERRO inesperado: Request timed out.
+[loop] question_id=670: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [670] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[9, 19] | decisão LLM=APROVAR
+  [620] ERRO inesperado: Request timed out.
+[loop] question_id=690: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [690] rodada 1/3 (avaliação: cache): 4 problema(s) de código | critérios ativos=[6, 7, 17, 19] | decisão LLM=REVISAR
+  [645] ERRO inesperado: Request timed out.
+[loop] question_id=700: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [700] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[6, 11, 15, 17] | decisão LLM=REVISAR
+  [651] ERRO inesperado: Request timed out.
+[loop] question_id=704: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [704] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[11, 15, 17, 19] | decisão LLM=REVISAR
+  [690] ERRO inesperado: Request timed out.
+[loop] question_id=707: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [707] rodada 1/3 (avaliação: cache): 4 problema(s) de código | critérios ativos=[1, 2, 3, 4, 5, 6, 7, 9, 15, 17, 18, 19] | decisão LLM=REJEITAR
+  [669] ERRO inesperado: Request timed out.
+[loop] question_id=729: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [729] rodada 1/3 (avaliação: cache): 1 problema(s) de código | critérios ativos=[7, 16, 17] | decisão LLM=REVISAR
+  [670] ERRO inesperado: Request timed out.
+[loop] question_id=743: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [743] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 11, 17] | decisão LLM=REVISAR
+  [704] ERRO inesperado: Request timed out.
+[loop] question_id=753: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [753] rodada 1/3 (avaliação: cache): 4 problema(s) de código | critérios ativos=[3, 5, 6, 7, 9, 15, 18, 19] | decisão LLM=REVISAR
+  [700] ERRO inesperado: Request timed out.
+[loop] question_id=767: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [767] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[6, 7, 11, 17] | decisão LLM=REVISAR
+  [707] ERRO inesperado: Request timed out.
+[loop] question_id=777: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [777] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[7, 15, 16, 17] | decisão LLM=REVISAR
+  [729] ERRO inesperado: Request timed out.
+[loop] question_id=787: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [787] rodada 1/3 (avaliação: cache): 4 problema(s) de código | critérios ativos=[7, 9, 17, 19] | decisão LLM=REVISAR
+  [743] ERRO inesperado: Request timed out.
+[loop] question_id=792: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [792] rodada 1/3 (avaliação: cache): 6 problema(s) de código | critérios ativos=[7, 12, 15, 16, 17, 19] | decisão LLM=REVISAR
+  [753] ERRO inesperado: Request timed out.
+[loop] question_id=794: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [794] rodada 1/3 (avaliação: cache): 4 problema(s) de código | critérios ativos=[6, 15, 17, 19] | decisão LLM=REVISAR
+  [787] ERRO inesperado: Request timed out.
+[loop] question_id=801: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [801] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=REVISAR
+  [767] ERRO inesperado: Request timed out.
+[loop] question_id=808: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [808] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+  [777] ERRO inesperado: Request timed out.
+[loop] question_id=818: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [818] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [794] ERRO inesperado: Request timed out.
+[loop] question_id=827: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [827] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[7, 11, 17, 19] | decisão LLM=REVISAR
+  [792] ERRO inesperado: Request timed out.
+[loop] question_id=840: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [840] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[5, 17, 19] | decisão LLM=REVISAR
+  [801] ERRO inesperado: Request timed out.
+[loop] question_id=844: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [844] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+  [808] ERRO inesperado: Request timed out.
+  [818] ERRO inesperado: Request timed out.
+  [827] ERRO inesperado: Request timed out.
+  [840] ERRO inesperado: Request timed out.
+  [844] ERRO inesperado: Request timed out.
+[loop] resumo do lote salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/_resumo_lote.csv
+
+[rodar_top100] resumo final:
+status_final
+LIMITE_RODADAS_ATINGIDO     52
+ERRO: Request timed out.    35
+APROVADO                    13
+[rodar_top100] detalhes por item em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao
+[rodar_top100] 100 item(ns) de itens_para_refino_top100.csv | até 3 rodada(s) cada | max_workers=3
+=== [1/100] question_id=2: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [2/100] question_id=22: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [3/100] question_id=26: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [4/100] question_id=32: já concluído (APROVADO), pulando ===
+=== [5/100] question_id=36: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [6/100] question_id=37: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [7/100] question_id=39: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [8/100] question_id=56: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [9/100] question_id=62: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [10/100] question_id=63: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [11/100] question_id=66: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [12/100] question_id=69: já concluído (APROVADO), pulando ===
+=== [13/100] question_id=74: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [14/100] question_id=78: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [15/100] question_id=85: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [16/100] question_id=86: já concluído (APROVADO), pulando ===
+=== [17/100] question_id=93: já concluído (APROVADO), pulando ===
+=== [18/100] question_id=98: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [19/100] question_id=106: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [20/100] question_id=109: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [21/100] question_id=117: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [22/100] question_id=118: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [23/100] question_id=122: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [24/100] question_id=123: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [25/100] question_id=131: já concluído (APROVADO), pulando ===
+=== [26/100] question_id=132: já concluído (APROVADO), pulando ===
+=== [27/100] question_id=141: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [28/100] question_id=151: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [29/100] question_id=160: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [30/100] question_id=165: já concluído (APROVADO), pulando ===
+=== [31/100] question_id=167: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [32/100] question_id=171: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [33/100] question_id=184: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [34/100] question_id=186: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [35/100] question_id=224: já concluído (APROVADO), pulando ===
+=== [36/100] question_id=227: já concluído (APROVADO), pulando ===
+=== [37/100] question_id=228: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [38/100] question_id=229: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [39/100] question_id=238: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [40/100] question_id=241: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [41/100] question_id=251: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [42/100] question_id=252: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [43/100] question_id=260: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [44/100] question_id=288: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [45/100] question_id=289: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [46/100] question_id=312: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [47/100] question_id=322: já concluído (APROVADO), pulando ===
+=== [48/100] question_id=327: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [49/100] question_id=331: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [50/100] question_id=334: já concluído (APROVADO), pulando ===
+=== [51/100] question_id=343: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [52/100] question_id=356: já concluído (APROVADO), pulando ===
+=== [53/100] question_id=360: já concluído (APROVADO), pulando ===
+=== [54/100] question_id=362: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [55/100] question_id=364: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [56/100] question_id=374: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [57/100] question_id=405: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [58/100] question_id=418: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [59/100] question_id=438: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [60/100] question_id=457: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [61/100] question_id=470: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [62/100] question_id=483: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [63/100] question_id=489: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [65/100] question_id=503: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [66/100] question_id=512: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+[loop] 35 item(ns) pendente(s) de 100 | max_workers=3
+[loop] question_id=500: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [500] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[7, 9, 17] | decisão LLM=APROVAR
+[loop] question_id=526: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [526] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+[loop] question_id=519: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [519] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [519] ERRO inesperado: Request timed out.
+  [500] ERRO inesperado: Request timed out.
+  [526] ERRO inesperado: Request timed out.
+[loop] question_id=540: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [540] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[6, 7, 9] | decisão LLM=REVISAR
+[loop] question_id=567: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [567] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+[loop] question_id=536: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [536] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[12, 17, 19] | decisão LLM=REVISAR
+  [567] ERRO ao corrigir na rodada 1: A resposta contém JSON inválido: Invalid \escape: line 8 column 127 (char 512) — ciclo encerrado
+[loop] question_id=567: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/567.json
+[loop] question_id=568: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [568] rodada 1/3 (avaliação: cache): 1 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=REVISAR
+  [536] ERRO inesperado: Request timed out.
+[loop] question_id=589: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [589] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 9, 11] | decisão LLM=REVISAR
+  [540] ERRO inesperado: Request timed out.
+[loop] question_id=591: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [591] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [568] ERRO inesperado: Request timed out.
+[loop] question_id=601: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [601] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[12, 17, 19] | decisão LLM=REVISAR
+  [589] ERRO inesperado: Request timed out.
+[loop] question_id=615: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [615] rodada 1/3 (avaliação: cache): 4 problema(s) de código | critérios ativos=[6, 7, 9, 11, 17] | decisão LLM=REVISAR
+  [591] ERRO inesperado: Request timed out.
+[loop] question_id=620: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [620] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 9, 17, 19] | decisão LLM=REVISAR
+  [601] ERRO inesperado: Request timed out.
+[loop] question_id=623: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [623] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[5, 6, 7, 9, 15, 16, 17, 19] | decisão LLM=REJEITAR
+[rodar_top100] 100 item(ns) de itens_para_refino_top100.csv | até 3 rodada(s) cada | max_workers=1
+=== [1/100] question_id=2: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [2/100] question_id=22: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [3/100] question_id=26: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [4/100] question_id=32: já concluído (APROVADO), pulando ===
+=== [5/100] question_id=36: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [6/100] question_id=37: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [7/100] question_id=39: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [8/100] question_id=56: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [9/100] question_id=62: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [10/100] question_id=63: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [11/100] question_id=66: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [12/100] question_id=69: já concluído (APROVADO), pulando ===
+=== [13/100] question_id=74: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [14/100] question_id=78: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [15/100] question_id=85: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [16/100] question_id=86: já concluído (APROVADO), pulando ===
+=== [17/100] question_id=93: já concluído (APROVADO), pulando ===
+=== [18/100] question_id=98: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [19/100] question_id=106: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [20/100] question_id=109: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [21/100] question_id=117: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [22/100] question_id=118: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [23/100] question_id=122: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [24/100] question_id=123: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [25/100] question_id=131: já concluído (APROVADO), pulando ===
+=== [26/100] question_id=132: já concluído (APROVADO), pulando ===
+=== [27/100] question_id=141: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [28/100] question_id=151: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [29/100] question_id=160: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [30/100] question_id=165: já concluído (APROVADO), pulando ===
+=== [31/100] question_id=167: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [32/100] question_id=171: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [33/100] question_id=184: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [34/100] question_id=186: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [35/100] question_id=224: já concluído (APROVADO), pulando ===
+=== [36/100] question_id=227: já concluído (APROVADO), pulando ===
+=== [37/100] question_id=228: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [38/100] question_id=229: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [39/100] question_id=238: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [40/100] question_id=241: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [41/100] question_id=251: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [42/100] question_id=252: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [43/100] question_id=260: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [44/100] question_id=288: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [45/100] question_id=289: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [46/100] question_id=312: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [47/100] question_id=322: já concluído (APROVADO), pulando ===
+=== [48/100] question_id=327: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [49/100] question_id=331: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [50/100] question_id=334: já concluído (APROVADO), pulando ===
+=== [51/100] question_id=343: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [52/100] question_id=356: já concluído (APROVADO), pulando ===
+=== [53/100] question_id=360: já concluído (APROVADO), pulando ===
+=== [54/100] question_id=362: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [55/100] question_id=364: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [56/100] question_id=374: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [57/100] question_id=405: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [58/100] question_id=418: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [59/100] question_id=438: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [60/100] question_id=457: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [61/100] question_id=470: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [62/100] question_id=483: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [63/100] question_id=489: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [65/100] question_id=503: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [66/100] question_id=512: já concluído (LIMITE_RODADAS_ATINGIDO), pulando ===
+=== [71/100] question_id=567: já concluído (ERRO_CORRECAO), pulando ===
+[loop] 34 item(ns) pendente(s) de 100 | max_workers=1
+=== [1/34] question_id=500 ===
+[loop] question_id=500: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [500] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[7, 9, 17] | decisão LLM=APROVAR
+  [500] ERRO inesperado: Request timed out.
+=== [2/34] question_id=519 ===
+[loop] question_id=519: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [519] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [519] ERRO inesperado: Request timed out.
+=== [3/34] question_id=526 ===
+[loop] question_id=526: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [526] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [526] rodada 2/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[1, 3, 4, 7, 17] | decisão LLM=REVISAR
+  [526] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[17, 19] | decisão LLM=REVISAR
+  [526] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=526: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/526.json
+=== [4/34] question_id=536 ===
+[loop] question_id=536: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [536] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[12, 17, 19] | decisão LLM=REVISAR
+  [536] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[16, 17] | decisão LLM=REVISAR
+  [536] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[16, 17] | decisão LLM=REVISAR
+  [536] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=536: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/536.json
+=== [5/34] question_id=540 ===
+[loop] question_id=540: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [540] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[6, 7, 9] | decisão LLM=REVISAR
+  [540] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[7, 9] | decisão LLM=REVISAR
+  [540] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[7, 9, 17] | decisão LLM=REVISAR
+  [540] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=540: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/540.json
+=== [6/34] question_id=568 ===
+[loop] question_id=568: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [568] rodada 1/3 (avaliação: cache): 1 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=REVISAR
+  [568] rodada 2/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [568] rodada 3/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [568] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=568: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/568.json
+=== [7/34] question_id=589 ===
+[loop] question_id=589: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [589] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 9, 11] | decisão LLM=REVISAR
+  [589] rodada 2/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[6, 15] | decisão LLM=APROVAR
+  [589] rodada 3/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[15, 16] | decisão LLM=APROVAR
+  [589] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=589: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/589.json
+=== [8/34] question_id=591 ===
+[loop] question_id=591: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [591] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [591] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=REVISAR
+  [591] rodada 3/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[5, 6, 7, 9, 17] | decisão LLM=REVISAR
+  [591] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=591: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/591.json
+=== [9/34] question_id=601 ===
+[loop] question_id=601: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [601] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[12, 17, 19] | decisão LLM=REVISAR
+  [601] rodada 2/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [601] rodada 3/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [601] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=601: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/601.json
+=== [10/34] question_id=615 ===
+[loop] question_id=615: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [615] rodada 1/3 (avaliação: cache): 4 problema(s) de código | critérios ativos=[6, 7, 9, 11, 17] | decisão LLM=REVISAR
+  [615] rodada 2/3 (avaliação: erro): 3 problema(s) de código | critérios ativos=[6, 7, 9] | decisão LLM=N/D
+  [615] rodada 3/3 (avaliação: erro): 2 problema(s) de código | critérios ativos=[6, 9] | decisão LLM=N/D
+  [615] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=615: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/615.json
+=== [11/34] question_id=620 ===
+[loop] question_id=620: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [620] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 9, 17, 19] | decisão LLM=REVISAR
+  [620] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[5, 6, 7, 9, 17] | decisão LLM=REVISAR
+  [620] rodada 3/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[5, 6, 7, 9, 17] | decisão LLM=REVISAR
+  [620] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=620: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/620.json
+=== [12/34] question_id=623 ===
+[loop] question_id=623: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [623] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[5, 6, 7, 9, 15, 16, 17, 19] | decisão LLM=REJEITAR
+  [623] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[1, 3, 4, 7, 9, 15, 16, 17] | decisão LLM=REJEITAR
+  [623] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[5, 7, 17, 19] | decisão LLM=REVISAR
+  [623] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=623: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/623.json
+=== [13/34] question_id=645 ===
+[loop] question_id=645: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [645] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=REVISAR
+  [645] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [645] rodada 3/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [645] sem problemas remanescentes — ciclo encerrado na rodada 3
+[loop] question_id=645: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/645.json
+=== [14/34] question_id=651 ===
+[loop] question_id=651: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [651] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=APROVAR
+  [651] rodada 2/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=REVISAR
+  [651] rodada 3/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [651] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=651: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/651.json
+=== [15/34] question_id=669 ===
+[loop] question_id=669: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [669] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=REVISAR
+  [669] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [669] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [669] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=669: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/669.json
+=== [16/34] question_id=670 ===
+[loop] question_id=670: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [670] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[9, 19] | decisão LLM=APROVAR
+  [670] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [670] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [670] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=670: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/670.json
+=== [17/34] question_id=690 ===
+[loop] question_id=690: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [690] rodada 1/3 (avaliação: cache): 4 problema(s) de código | critérios ativos=[6, 7, 17, 19] | decisão LLM=REVISAR
+  [690] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[1, 3, 4, 6, 7, 9, 15, 16, 17] | decisão LLM=REVISAR
+  [690] rodada 3/3 (avaliação: llm): 3 problema(s) de código | critérios ativos=[6, 7, 17, 19] | decisão LLM=REVISAR
+  [690] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=690: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/690.json
+=== [18/34] question_id=700 ===
+[loop] question_id=700: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [700] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[6, 11, 15, 17] | decisão LLM=REVISAR
+  [700] rodada 2/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[6, 15, 17] | decisão LLM=REVISAR
+  [700] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[15, 17] | decisão LLM=REVISAR
+  [700] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=700: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/700.json
+=== [19/34] question_id=704 ===
+[loop] question_id=704: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [704] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[11, 15, 17, 19] | decisão LLM=REVISAR
+  [704] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[17, 19] | decisão LLM=REVISAR
+  [704] rodada 3/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [704] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=704: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/704.json
+=== [20/34] question_id=707 ===
+[loop] question_id=707: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [707] rodada 1/3 (avaliação: cache): 4 problema(s) de código | critérios ativos=[1, 2, 3, 4, 5, 6, 7, 9, 15, 17, 18, 19] | decisão LLM=REJEITAR
+  [707] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[15] | decisão LLM=APROVAR
+  [707] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[15] | decisão LLM=APROVAR
+  [707] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=707: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/707.json
+=== [21/34] question_id=729 ===
+[loop] question_id=729: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [729] rodada 1/3 (avaliação: cache): 1 problema(s) de código | critérios ativos=[7, 16, 17] | decisão LLM=REVISAR
+  [729] rodada 2/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[7, 9, 16, 17] | decisão LLM=REVISAR
+  [729] rodada 3/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[9, 16, 17] | decisão LLM=REVISAR
+  [729] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=729: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/729.json
+=== [22/34] question_id=743 ===
+[loop] question_id=743: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [743] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 11, 17] | decisão LLM=REVISAR
+  [743] rodada 2/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [743] rodada 3/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=REVISAR
+  [743] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=743: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/743.json
+=== [23/34] question_id=753 ===
+[loop] question_id=753: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [753] rodada 1/3 (avaliação: cache): 4 problema(s) de código | critérios ativos=[3, 5, 6, 7, 9, 15, 18, 19] | decisão LLM=REVISAR
+  [753] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[1, 3, 4, 7, 15] | decisão LLM=REVISAR
+  [753] rodada 3/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[7, 15, 19] | decisão LLM=REVISAR
+  [753] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=753: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/753.json
+=== [24/34] question_id=767 ===
+[loop] question_id=767: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [767] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[6, 7, 11, 17] | decisão LLM=REVISAR
+  [767] rodada 2/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [767] sem problemas remanescentes — ciclo encerrado na rodada 2
+[loop] question_id=767: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/767.json
+=== [25/34] question_id=777 ===
+[loop] question_id=777: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [777] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[7, 15, 16, 17] | decisão LLM=REVISAR
+  [777] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[16, 17] | decisão LLM=REVISAR
+  [777] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[16, 17] | decisão LLM=REVISAR
+  [777] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=777: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/777.json
+=== [26/34] question_id=787 ===
+[loop] question_id=787: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [787] rodada 1/3 (avaliação: cache): 4 problema(s) de código | critérios ativos=[7, 9, 17, 19] | decisão LLM=REVISAR
+  [787] rodada 2/3 (avaliação: llm): 3 problema(s) de código | critérios ativos=[7, 9, 11] | decisão LLM=APROVAR
+  [787] rodada 3/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [787] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=787: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/787.json
+=== [27/34] question_id=792 ===
+[loop] question_id=792: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [792] rodada 1/3 (avaliação: cache): 6 problema(s) de código | critérios ativos=[7, 12, 15, 16, 17, 19] | decisão LLM=REVISAR
+  [792] rodada 2/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[1, 3, 4, 7, 15, 16, 17] | decisão LLM=REVISAR
+  [792] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[17, 19] | decisão LLM=REVISAR
+  [792] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=792: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/792.json
+=== [28/34] question_id=794 ===
+[loop] question_id=794: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [794] rodada 1/3 (avaliação: cache): 4 problema(s) de código | critérios ativos=[6, 15, 17, 19] | decisão LLM=REVISAR
+  [794] rodada 2/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[6, 7, 15, 17] | decisão LLM=REVISAR
+  [794] rodada 3/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[6, 15, 17] | decisão LLM=REVISAR
+  [794] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=794: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/794.json
+=== [29/34] question_id=801 ===
+[loop] question_id=801: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [801] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=REVISAR
+  [801] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=REVISAR
+  [801] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=REVISAR
+  [801] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=801: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/801.json
+=== [30/34] question_id=808 ===
+[loop] question_id=808: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [808] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+  [808] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[1, 3, 4, 11, 17] | decisão LLM=REVISAR
+  [808] rodada 3/3 (avaliação: llm): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+  [808] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=808: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/808.json
+=== [31/34] question_id=818 ===
+[loop] question_id=818: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [818] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [818] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[17, 19] | decisão LLM=REVISAR
+  [818] rodada 3/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [818] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=818: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/818.json
+=== [32/34] question_id=827 ===
+[loop] question_id=827: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [827] rodada 1/3 (avaliação: cache): 3 problema(s) de código | critérios ativos=[7, 11, 17, 19] | decisão LLM=REVISAR
+  [827] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[5, 6, 7, 9, 17] | decisão LLM=REVISAR
+  [827] rodada 3/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[5, 6, 7, 9] | decisão LLM=REVISAR
+  [827] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=827: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/827.json
+=== [33/34] question_id=840 ===
+[loop] question_id=840: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [840] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[5, 17, 19] | decisão LLM=REVISAR
+  [840] rodada 2/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[5, 17] | decisão LLM=REVISAR
+  [840] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[5, 17] | decisão LLM=REVISAR
+  [840] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=840: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/840.json
+=== [34/34] question_id=844 ===
+[loop] question_id=844: iniciando ciclo de até 3 rodada(s) | avaliação inicial: cache (data/analises_maritaca.csv)
+  [844] rodada 1/3 (avaliação: cache): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+  [844] rodada 2/3 (avaliação: llm): 0 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [844] rodada 3/3 (avaliação: llm): 1 problema(s) de código | critérios ativos=[11, 17] | decisão LLM=REVISAR
+  [844] limite de 3 rodada(s) atingido, ainda com problema(s)
+[loop] question_id=844: histórico salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/844.json
+[loop] resumo do lote salvo em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao/_resumo_lote.csv
+
+[rodar_top100] resumo final:
+status_final
+LIMITE_RODADAS_ATINGIDO     82
+APROVADO                    15
+ERRO: Request timed out.     2
+ERRO_CORRECAO                1
+[rodar_top100] detalhes por item em /home/lucaslarcher/Documentos/GitHub/IV_WAPLA/data/loop_correcao

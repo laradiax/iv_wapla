@@ -1,0 +1,76 @@
+Corrija o item educacional abaixo seguindo rigorosamente o procedimento, os 19 critérios e o formato de saída definidos no prompt de sistema.
+Use o DIAGNÓSTICO como a lista definitiva de problemas a corrigir. Não altere critérios que não estejam listados como problema.
+
+## ITEM ORIGINAL
+ID: {id}
+Tipo de questão: {tipo_questao}
+Disciplina: {disciplina}
+Nível de Bloom declarado: {bloom_declarado}
+
+Texto-base:
+{texto_base}
+
+Enunciado:
+{enunciado}
+
+Alternativas:
+A. {alternativa_a}
+B. {alternativa_b}
+C. {alternativa_c}
+D. {alternativa_d}
+E. {alternativa_e}
+
+Gabarito declarado: {gabarito}
+
+## DIAGNÓSTICO OBJETIVO (verificação por código — data/itens_para_refino_top100.csv)
+{o_que_melhorar}
+
+Letra de gabarito dominante no conjunto (apenas relevante para o critério 19, se listado acima): {letra_dominante_conjunto}
+
+## DIAGNÓSTICO PEDAGÓGICO (avaliação por LLM — data/analises_maritaca.csv)
+Use os campos abaixo apenas como evidência qualitativa complementar aos problemas já listados no DIAGNÓSTICO OBJETIVO. Não corrija nada aqui que não esteja coberto pelos 19 critérios do prompt de sistema.
+
+Resolução independente (avaliação original):
+- Alternativa correta observada: {llm_alternativa_correta_observada}
+- Situação do gabarito: {llm_situacao_gabarito}
+
+Bloom (critério 17):
+- Nível observado: {llm_bloom_nivel_observado}
+- Alinhamento: {llm_bloom_alinhamento}
+- Evidência: {llm_bloom_evidencia}
+
+Paralelismo (critério 5):
+- Status: {llm_paralelismo_status}
+- Evidência: {llm_paralelismo_evidencia}
+- Justificativa: {llm_paralelismo_justificativa}
+
+Coerência de conteúdo / texto-base (critérios 15 e 16):
+- Status: {llm_coerencia_status}
+- Evidência: {llm_coerencia_evidencia}
+- Justificativa: {llm_coerencia_justificativa}
+
+Corretude e unicidade do gabarito (critérios 1, 3 e 4):
+- Status: {llm_corretude_status}
+- Evidência: {llm_corretude_evidencia}
+- Justificativa: {llm_corretude_justificativa}
+
+Convergência e pistas formais (critérios 6 e 9):
+- Status: {llm_convergencia_status}
+- Alternativa favorecida: {llm_convergencia_alternativa_favorecida}
+- Evidência: {llm_convergencia_evidencia}
+
+Plausibilidade dos distratores (critério 7):
+- Status geral: {llm_plausibilidade_status_geral}
+- Sugestão de correção (avaliação original): {llm_plausibilidade_sugestao_correcao}
+
+Ideia central do enunciado (critério 11):
+- Status: {llm_ideia_central_status}
+- Evidência: {llm_ideia_central_evidencia}
+
+Clareza linguística (critérios 10 e 12):
+- Status: {llm_clareza_status}
+- Evidência: {llm_clareza_evidencia}
+- Justificativa: {llm_clareza_justificativa}
+
+## OBSERVAÇÕES FORA DO ESCOPO DOS 19 CRITÉRIOS (apenas contexto, não corrigir)
+{observacoes_subjetivas_extra}

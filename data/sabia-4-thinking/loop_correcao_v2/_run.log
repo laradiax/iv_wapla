@@ -1,0 +1,673 @@
+[rodar_top100] 100 item(ns) de itens_para_refino_top100.csv | 3 correção(ões) cada | max_workers=5 | saida_dir=data/loop_correcao_v2 | reaproveitar_avaliacao_inicial=False
+[loop] 100 item(ns) pendente(s) de 100 | max_workers=5
+[loop] question_id=2: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+[loop] question_id=32: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+[loop] question_id=22: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+[loop] question_id=26: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+[loop] question_id=36: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [36] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=REVISAR
+  [2] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 15, 16, 17] | decisão LLM=REVISAR
+  [32] avaliação 1/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 11, 17] | decisão LLM=REVISAR
+  [22] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[9, 11, 19] | decisão LLM=APROVAR
+  [26] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[12, 16, 17, 19] | decisão LLM=REVISAR
+  [2] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 15, 16] | decisão LLM=REVISAR
+  [36] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [26] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16] | decisão LLM=APROVAR
+  [32] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [32] sem problemas remanescentes — ciclo encerrado na avaliação 2
+[loop] question_id=32: histórico salvo em data/loop_correcao_v2/32.json
+[loop] question_id=37: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [22] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 11, 17] | decisão LLM=REVISAR
+  [37] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=APROVAR
+  [26] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[16, 17, 19] | decisão LLM=REVISAR
+  [36] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [2] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 15, 16] | decisão LLM=REVISAR
+  [22] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [37] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [26] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16] | decisão LLM=APROVAR
+  [26] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=26: histórico salvo em data/loop_correcao_v2/26.json
+[loop] question_id=39: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [2] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[15, 16] | decisão LLM=APROVAR
+  [2] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=2: histórico salvo em data/loop_correcao_v2/2.json
+[loop] question_id=56: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [36] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [36] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=36: histórico salvo em data/loop_correcao_v2/36.json
+[loop] question_id=62: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [22] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [22] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=22: histórico salvo em data/loop_correcao_v2/22.json
+[loop] question_id=63: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [39] avaliação 1/4 (origem: llm): 4 problema(s) de código | critérios ativos=[6, 7, 11, 17, 19] | decisão LLM=REVISAR
+  [62] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 10, 19] | decisão LLM=APROVAR
+  [56] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 17, 19] | decisão LLM=APROVAR
+  [37] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [63] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 19] | decisão LLM=APROVAR
+  [62] avaliação 2/4 (origem: erro): 3 problema(s) de código | critérios ativos=[6, 10, 17] | decisão LLM=N/D
+  [39] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[1, 3, 4, 5, 6, 7, 9, 15, 16, 19] | decisão LLM=REJEITAR
+  [56] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[1, 3, 4, 9, 17] | decisão LLM=REVISAR
+  [63] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[6, 9] | decisão LLM=REVISAR
+  [37] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [37] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=37: histórico salvo em data/loop_correcao_v2/37.json
+[loop] question_id=66: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [62] avaliação 3/4 (origem: erro): 2 problema(s) de código | critérios ativos=[6, 10] | decisão LLM=N/D
+  [66] avaliação 1/4 (origem: llm): 4 problema(s) de código | critérios ativos=[6, 9, 17, 19] | decisão LLM=APROVAR
+  [63] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [39] avaliação 3/4 (origem: erro): 0 problema(s) de código | critérios ativos=[] | decisão LLM=N/D
+  [39] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=39: histórico salvo em data/loop_correcao_v2/39.json
+[loop] question_id=69: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [56] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[17, 19] | decisão LLM=APROVAR
+  [62] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 10, 17] | decisão LLM=REVISAR
+  [62] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=62: histórico salvo em data/loop_correcao_v2/62.json
+[loop] question_id=74: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [69] avaliação 1/4 (origem: llm): 1 problema(s) de código | critérios ativos=[19] | decisão LLM=APROVAR
+  [66] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 9] | decisão LLM=APROVAR
+  [63] avaliação 4/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [63] sem problemas remanescentes — ciclo encerrado na avaliação 4
+[loop] question_id=63: histórico salvo em data/loop_correcao_v2/63.json
+[loop] question_id=78: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [56] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [56] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=56: histórico salvo em data/loop_correcao_v2/56.json
+[loop] question_id=85: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [74] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[16, 17, 19] | decisão LLM=REVISAR
+  [78] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=APROVAR
+  [69] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [69] sem problemas remanescentes — ciclo encerrado na avaliação 2
+[loop] question_id=69: histórico salvo em data/loop_correcao_v2/69.json
+[loop] question_id=86: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [85] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=APROVAR
+  [66] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [74] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16] | decisão LLM=APROVAR
+  [86] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 11, 19] | decisão LLM=REVISAR
+  [78] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [85] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=APROVAR
+  [66] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [66] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=66: histórico salvo em data/loop_correcao_v2/66.json
+[loop] question_id=93: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [74] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16] | decisão LLM=APROVAR
+  [78] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [86] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [93] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 7, 11, 17] | decisão LLM=REVISAR
+  [74] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16] | decisão LLM=APROVAR
+  [74] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=74: histórico salvo em data/loop_correcao_v2/74.json
+[loop] question_id=98: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [85] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=APROVAR
+  [78] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [78] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=78: histórico salvo em data/loop_correcao_v2/78.json
+[loop] question_id=106: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [86] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=REVISAR
+  [98] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=REVISAR
+  [93] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 7, 17] | decisão LLM=REVISAR
+  [106] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[15, 17, 19] | decisão LLM=REVISAR
+  [85] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=APROVAR
+  [85] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=85: histórico salvo em data/loop_correcao_v2/85.json
+[loop] question_id=109: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [86] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 7, 17] | decisão LLM=REVISAR
+  [86] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=86: histórico salvo em data/loop_correcao_v2/86.json
+[loop] question_id=117: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [98] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [106] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[15] | decisão LLM=APROVAR
+  [109] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=REVISAR
+  [93] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=REVISAR
+  [117] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 11, 19] | decisão LLM=REVISAR
+  [106] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[15] | decisão LLM=APROVAR
+  [98] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [109] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=REVISAR
+  [93] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 7, 17] | decisão LLM=REVISAR
+  [93] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=93: histórico salvo em data/loop_correcao_v2/93.json
+[loop] question_id=118: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [106] avaliação 4/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [106] sem problemas remanescentes — ciclo encerrado na avaliação 4
+[loop] question_id=106: histórico salvo em data/loop_correcao_v2/106.json
+[loop] question_id=122: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [117] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[7] | decisão LLM=REVISAR
+  [98] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [98] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=98: histórico salvo em data/loop_correcao_v2/98.json
+[loop] question_id=123: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [118] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 7, 9, 17] | decisão LLM=REVISAR
+  [122] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[3, 17, 19] | decisão LLM=REVISAR
+  [109] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=REVISAR
+  [123] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 19] | decisão LLM=APROVAR
+  [117] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=REVISAR
+  [118] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 7, 9] | decisão LLM=APROVAR
+  [122] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[3] | decisão LLM=APROVAR
+  [123] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [109] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [109] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=109: histórico salvo em data/loop_correcao_v2/109.json
+[loop] question_id=131: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [117] avaliação 4/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=REVISAR
+  [117] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=117: histórico salvo em data/loop_correcao_v2/117.json
+[loop] question_id=132: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [118] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [131] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[17, 19] | decisão LLM=APROVAR
+  [132] avaliação 1/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17, 19] | decisão LLM=REVISAR
+  [122] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[3] | decisão LLM=APROVAR
+  [123] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [123] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=123: histórico salvo em data/loop_correcao_v2/123.json
+[loop] question_id=141: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [118] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 9] | decisão LLM=APROVAR
+  [118] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=118: histórico salvo em data/loop_correcao_v2/118.json
+[loop] question_id=151: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [141] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 11, 19] | decisão LLM=REVISAR
+  [151] avaliação 1/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17, 19] | decisão LLM=REVISAR
+  [131] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [132] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [122] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[3] | decisão LLM=APROVAR
+  [122] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=122: histórico salvo em data/loop_correcao_v2/122.json
+[loop] question_id=160: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [151] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [151] sem problemas remanescentes — ciclo encerrado na avaliação 2
+[loop] question_id=151: histórico salvo em data/loop_correcao_v2/151.json
+[loop] question_id=165: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [141] avaliação 2/4 (origem: erro): 0 problema(s) de código | critérios ativos=[] | decisão LLM=N/D
+  [141] sem problemas remanescentes — ciclo encerrado na avaliação 2
+[loop] question_id=141: histórico salvo em data/loop_correcao_v2/141.json
+[loop] question_id=167: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [132] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [131] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=REVISAR
+  [160] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 15, 17, 19] | decisão LLM=REVISAR
+  [165] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[17, 19] | decisão LLM=APROVAR
+  [167] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=REVISAR
+  [132] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [132] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=132: histórico salvo em data/loop_correcao_v2/132.json
+[loop] question_id=171: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [131] avaliação 4/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [131] sem problemas remanescentes — ciclo encerrado na avaliação 4
+[loop] question_id=131: histórico salvo em data/loop_correcao_v2/131.json
+[loop] question_id=184: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [160] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[5, 6, 7, 9, 10, 12, 15, 18] | decisão LLM=REVISAR
+  [165] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [171] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 17, 19] | decisão LLM=REVISAR
+  [167] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [184] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[9, 11, 17, 19] | decisão LLM=REVISAR
+  [160] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[15] | decisão LLM=APROVAR
+  [165] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [171] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[6] | decisão LLM=APROVAR
+  [167] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=REVISAR
+  [184] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[5, 6, 7, 9, 11] | decisão LLM=REVISAR
+  [160] avaliação 4/4 (origem: llm): 3 problema(s) de código | critérios ativos=[15, 18] | decisão LLM=APROVAR
+  [160] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=160: histórico salvo em data/loop_correcao_v2/160.json
+[loop] question_id=186: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [165] avaliação 4/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [165] sem problemas remanescentes — ciclo encerrado na avaliação 4
+[loop] question_id=165: histórico salvo em data/loop_correcao_v2/165.json
+[loop] question_id=224: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [167] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [167] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=167: histórico salvo em data/loop_correcao_v2/167.json
+[loop] question_id=227: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [171] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [171] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=171: histórico salvo em data/loop_correcao_v2/171.json
+[loop] question_id=228: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [186] avaliação 1/4 (origem: llm): 5 problema(s) de código | critérios ativos=[2, 3, 11, 15, 17, 19] | decisão LLM=REVISAR
+  [184] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [184] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=184: histórico salvo em data/loop_correcao_v2/184.json
+[loop] question_id=229: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [224] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 9, 11] | decisão LLM=REVISAR
+  [227] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 12, 17, 19] | decisão LLM=REVISAR
+  [228] avaliação 1/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [229] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+  [186] avaliação 2/4 (origem: llm): 5 problema(s) de código | critérios ativos=[2, 3, 5, 6, 7, 9, 11, 15] | decisão LLM=REVISAR
+  [228] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [224] avaliação 2/4 (origem: erro): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=N/D
+  [227] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [227] sem problemas remanescentes — ciclo encerrado na avaliação 2
+[loop] question_id=227: histórico salvo em data/loop_correcao_v2/227.json
+[loop] question_id=238: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [229] avaliação 2/4 (origem: erro): 1 problema(s) de código | critérios ativos=[11] | decisão LLM=N/D
+  [186] avaliação 3/4 (origem: llm): 4 problema(s) de código | critérios ativos=[2, 3, 15] | decisão LLM=APROVAR
+  [238] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[12, 19] | decisão LLM=REVISAR
+  [228] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [228] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=228: histórico salvo em data/loop_correcao_v2/228.json
+[loop] question_id=241: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [224] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [224] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=224: histórico salvo em data/loop_correcao_v2/224.json
+[loop] question_id=251: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [229] avaliação 3/4 (origem: erro): 0 problema(s) de código | critérios ativos=[] | decisão LLM=N/D
+  [229] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=229: histórico salvo em data/loop_correcao_v2/229.json
+[loop] question_id=252: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [238] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [251] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[12, 15, 17, 19] | decisão LLM=REVISAR
+  [241] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [186] avaliação 4/4 (origem: llm): 4 problema(s) de código | critérios ativos=[2, 3, 15] | decisão LLM=APROVAR
+  [186] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=186: histórico salvo em data/loop_correcao_v2/186.json
+[loop] question_id=260: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [252] avaliação 1/4 (origem: llm): 4 problema(s) de código | critérios ativos=[5, 6, 12, 17, 19] | decisão LLM=REVISAR
+  [238] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [238] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=238: histórico salvo em data/loop_correcao_v2/238.json
+[loop] question_id=288: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [260] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+  [251] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[5, 15] | decisão LLM=REVISAR
+  [241] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [288] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 7, 9, 17, 19] | decisão LLM=REVISAR
+  [252] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[1, 3, 4, 5, 7, 15, 16, 17] | decisão LLM=REJEITAR
+  [251] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[15, 17] | decisão LLM=REVISAR
+  [260] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[1, 3, 4, 11] | decisão LLM=REVISAR
+  [241] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [288] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 9] | decisão LLM=APROVAR
+  [252] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[5, 6, 7] | decisão LLM=REVISAR
+  [251] avaliação 4/4 (origem: llm): 0 problema(s) de código | critérios ativos=[5, 6, 7, 9] | decisão LLM=REVISAR
+  [251] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=251: histórico salvo em data/loop_correcao_v2/251.json
+[loop] question_id=289: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [260] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[19] | decisão LLM=APROVAR
+  [252] avaliação 4/4 (origem: llm): 0 problema(s) de código | critérios ativos=[7] | decisão LLM=REVISAR
+  [252] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=252: histórico salvo em data/loop_correcao_v2/252.json
+[loop] question_id=312: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [288] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 9] | decisão LLM=REVISAR
+  [241] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [241] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=241: histórico salvo em data/loop_correcao_v2/241.json
+[loop] question_id=322: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [289] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[15, 17, 19] | decisão LLM=REVISAR
+  [260] avaliação 4/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [260] sem problemas remanescentes — ciclo encerrado na avaliação 4
+[loop] question_id=260: histórico salvo em data/loop_correcao_v2/260.json
+[loop] question_id=327: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [312] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[12, 17, 19] | decisão LLM=REVISAR
+  [322] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[17, 19] | decisão LLM=APROVAR
+  [288] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[6, 7] | decisão LLM=REVISAR
+  [288] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=288: histórico salvo em data/loop_correcao_v2/288.json
+[loop] question_id=331: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [327] avaliação 1/4 (origem: llm): 4 problema(s) de código | critérios ativos=[12, 16, 17, 19] | decisão LLM=REVISAR
+  [289] avaliação 2/4 (origem: llm): 3 problema(s) de código | critérios ativos=[1, 3, 4, 6, 15, 18] | decisão LLM=REVISAR
+  [312] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [331] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=APROVAR
+  [322] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [327] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[16, 17] | decisão LLM=APROVAR
+  [289] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[15, 19] | decisão LLM=APROVAR
+  [312] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=REVISAR
+  [331] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [322] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [327] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16, 17] | decisão LLM=REVISAR
+  [312] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [312] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=312: histórico salvo em data/loop_correcao_v2/312.json
+[loop] question_id=334: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [289] avaliação 4/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 15, 18] | decisão LLM=APROVAR
+  [289] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=289: histórico salvo em data/loop_correcao_v2/289.json
+[loop] question_id=343: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [322] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [322] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=322: histórico salvo em data/loop_correcao_v2/322.json
+[loop] question_id=356: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [327] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[16, 17] | decisão LLM=APROVAR
+  [327] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=327: histórico salvo em data/loop_correcao_v2/327.json
+[loop] question_id=360: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [331] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [334] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=APROVAR
+  [343] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 11, 17] | decisão LLM=REVISAR
+  [356] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 9, 11, 17] | decisão LLM=REVISAR
+  [360] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 17, 19] | decisão LLM=REVISAR
+  [331] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [331] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=331: histórico salvo em data/loop_correcao_v2/331.json
+[loop] question_id=362: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [334] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [343] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [356] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 9, 17] | decisão LLM=REVISAR
+  [362] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[5, 17, 19] | decisão LLM=REVISAR
+  [360] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 7, 17] | decisão LLM=REVISAR
+  [334] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [343] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [343] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=343: histórico salvo em data/loop_correcao_v2/343.json
+[loop] question_id=364: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [356] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [362] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[5] | decisão LLM=APROVAR
+  [360] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [364] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 7, 11, 17, 19] | decisão LLM=REVISAR
+  [356] avaliação 4/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [356] sem problemas remanescentes — ciclo encerrado na avaliação 4
+[loop] question_id=356: histórico salvo em data/loop_correcao_v2/356.json
+[loop] question_id=374: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [334] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [334] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=334: histórico salvo em data/loop_correcao_v2/334.json
+[loop] question_id=405: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [362] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [362] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=362: histórico salvo em data/loop_correcao_v2/362.json
+[loop] question_id=418: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [360] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [360] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=360: histórico salvo em data/loop_correcao_v2/360.json
+[loop] question_id=438: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [364] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 7, 17] | decisão LLM=APROVAR
+  [374] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 7, 9, 11, 17, 19] | decisão LLM=REVISAR
+  [418] avaliação 1/4 (origem: erro): 3 problema(s) de código | critérios ativos=[7, 11, 19] | decisão LLM=N/D
+  [405] avaliação 1/4 (origem: erro): 3 problema(s) de código | critérios ativos=[7, 11, 19] | decisão LLM=N/D
+  [438] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[17, 19] | decisão LLM=APROVAR
+  [364] avaliação 3/4 (origem: llm): 3 problema(s) de código | critérios ativos=[5, 6, 7, 17] | decisão LLM=REVISAR
+  [374] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [405] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [418] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[1, 3, 4, 6, 7, 9, 15, 16, 17] | decisão LLM=REVISAR
+  [438] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [364] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=REVISAR
+  [364] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=364: histórico salvo em data/loop_correcao_v2/364.json
+[loop] question_id=457: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [374] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [405] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [405] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=405: histórico salvo em data/loop_correcao_v2/405.json
+[loop] question_id=470: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [457] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 16, 17, 19] | decisão LLM=REVISAR
+  [418] avaliação 3/4 (origem: erro): 3 problema(s) de código | critérios ativos=[6, 17, 19] | decisão LLM=N/D
+  [438] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [470] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 11, 12, 17] | decisão LLM=REVISAR
+  [374] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [374] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=374: histórico salvo em data/loop_correcao_v2/374.json
+[loop] question_id=483: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [457] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16] | decisão LLM=APROVAR
+  [483] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+  [438] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 9] | decisão LLM=REVISAR
+  [438] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=438: histórico salvo em data/loop_correcao_v2/438.json
+[loop] question_id=489: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [470] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [418] avaliação 4/4 (origem: erro): 0 problema(s) de código | critérios ativos=[] | decisão LLM=N/D
+  [418] sem problemas remanescentes — ciclo encerrado na avaliação 4
+[loop] question_id=418: histórico salvo em data/loop_correcao_v2/418.json
+[loop] question_id=500: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [483] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[11] | decisão LLM=APROVAR
+  [489] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 9, 16, 17, 19] | decisão LLM=REVISAR
+  [457] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16] | decisão LLM=APROVAR
+  [470] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[5, 7, 17] | decisão LLM=REVISAR
+  [500] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 9, 17] | decisão LLM=APROVAR
+  [483] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [483] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=483: histórico salvo em data/loop_correcao_v2/483.json
+[loop] question_id=503: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [457] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16] | decisão LLM=APROVAR
+  [457] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=457: histórico salvo em data/loop_correcao_v2/457.json
+[loop] question_id=512: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [489] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 9, 16] | decisão LLM=REVISAR
+  [470] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[5, 6, 7, 9, 17] | decisão LLM=REVISAR
+  [470] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=470: histórico salvo em data/loop_correcao_v2/470.json
+[loop] question_id=519: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [500] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [503] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 11, 17] | decisão LLM=REVISAR
+  [512] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[5, 6, 7, 9, 16, 17, 19] | decisão LLM=REVISAR
+  [519] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [489] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 16] | decisão LLM=APROVAR
+  [503] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[6] | decisão LLM=APROVAR
+  [512] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[16, 19] | decisão LLM=APROVAR
+  [500] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [519] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [489] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [489] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=489: histórico salvo em data/loop_correcao_v2/489.json
+[loop] question_id=526: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [512] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16] | decisão LLM=APROVAR
+  [503] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [503] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=503: histórico salvo em data/loop_correcao_v2/503.json
+[loop] question_id=536: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [500] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [500] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=500: histórico salvo em data/loop_correcao_v2/500.json
+[loop] question_id=540: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [526] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [519] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [536] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[12, 17, 19] | decisão LLM=REVISAR
+  [512] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16] | decisão LLM=APROVAR
+  [512] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=512: histórico salvo em data/loop_correcao_v2/512.json
+[loop] question_id=567: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [540] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 7, 9] | decisão LLM=REVISAR
+  [567] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+  [519] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [519] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=519: histórico salvo em data/loop_correcao_v2/519.json
+[loop] question_id=568: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [526] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[7] | decisão LLM=REVISAR
+  [536] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16] | decisão LLM=APROVAR
+  [540] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 9] | decisão LLM=REVISAR
+  [568] avaliação 1/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=REVISAR
+  [567] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[11] | decisão LLM=APROVAR
+  [526] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [526] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=526: histórico salvo em data/loop_correcao_v2/526.json
+[loop] question_id=589: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [536] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16] | decisão LLM=APROVAR
+  [540] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 9] | decisão LLM=REVISAR
+  [568] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [589] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 9, 11] | decisão LLM=REVISAR
+  [567] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [567] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=567: histórico salvo em data/loop_correcao_v2/567.json
+[loop] question_id=591: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [536] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[16] | decisão LLM=APROVAR
+  [536] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=536: histórico salvo em data/loop_correcao_v2/536.json
+[loop] question_id=601: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [591] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [601] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[12, 17, 19] | decisão LLM=REVISAR
+  [540] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [540] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=540: histórico salvo em data/loop_correcao_v2/540.json
+[loop] question_id=615: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [568] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [589] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 9] | decisão LLM=REVISAR
+  [615] avaliação 1/4 (origem: llm): 4 problema(s) de código | critérios ativos=[6, 7, 9, 11, 17] | decisão LLM=REVISAR
+  [601] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [601] sem problemas remanescentes — ciclo encerrado na avaliação 2
+[loop] question_id=601: histórico salvo em data/loop_correcao_v2/601.json
+[loop] question_id=620: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [591] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=REVISAR
+  [568] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[17] | decisão LLM=APROVAR
+  [568] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=568: histórico salvo em data/loop_correcao_v2/568.json
+[loop] question_id=623: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [589] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 9] | decisão LLM=APROVAR
+  [620] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 9, 17, 19] | decisão LLM=REVISAR
+  [623] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[5, 6, 7, 9, 15, 16, 17, 19] | decisão LLM=REVISAR
+  [615] avaliação 2/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 9, 17] | decisão LLM=APROVAR
+  [591] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[5, 6, 7, 9, 17] | decisão LLM=REVISAR
+  [589] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=REVISAR
+  [589] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=589: histórico salvo em data/loop_correcao_v2/589.json
+[loop] question_id=645: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [620] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 9] | decisão LLM=REVISAR
+  [645] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=REVISAR
+  [623] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[17] | decisão LLM=REVISAR
+  [615] avaliação 3/4 (origem: llm): 3 problema(s) de código | critérios ativos=[5, 6, 7, 9, 17] | decisão LLM=REVISAR
+  [591] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[5, 6, 7, 9, 17] | decisão LLM=REVISAR
+  [591] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=591: histórico salvo em data/loop_correcao_v2/591.json
+[loop] question_id=651: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [620] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [651] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=APROVAR
+  [623] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[5, 6, 7, 9] | decisão LLM=REVISAR
+  [620] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [620] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=620: histórico salvo em data/loop_correcao_v2/620.json
+[loop] question_id=669: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [645] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [615] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[17, 19] | decisão LLM=REVISAR
+  [615] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=615: histórico salvo em data/loop_correcao_v2/615.json
+[loop] question_id=670: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [669] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=APROVAR
+  [651] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [670] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 19] | decisão LLM=APROVAR
+  [623] avaliação 4/4 (origem: llm): 0 problema(s) de código | critérios ativos=[1, 3, 4, 6, 7, 9] | decisão LLM=REVISAR
+  [623] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=623: histórico salvo em data/loop_correcao_v2/623.json
+[loop] question_id=690: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [645] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [669] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [651] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [690] avaliação 1/4 (origem: llm): 4 problema(s) de código | critérios ativos=[6, 7, 17, 19] | decisão LLM=REVISAR
+  [670] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [645] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [645] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=645: histórico salvo em data/loop_correcao_v2/645.json
+[loop] question_id=700: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [669] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 11] | decisão LLM=APROVAR
+  [651] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=APROVAR
+  [651] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=651: histórico salvo em data/loop_correcao_v2/651.json
+[loop] question_id=704: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [700] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 11, 15, 17] | decisão LLM=REVISAR
+  [670] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [690] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 7] | decisão LLM=REVISAR
+  [704] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[11, 15, 17, 19] | decisão LLM=REVISAR
+  [700] avaliação 2/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 15, 17] | decisão LLM=REVISAR
+  [670] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [670] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=670: histórico salvo em data/loop_correcao_v2/670.json
+[loop] question_id=707: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [669] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17] | decisão LLM=REVISAR
+  [669] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=669: histórico salvo em data/loop_correcao_v2/669.json
+[loop] question_id=729: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [690] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [704] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[11, 15] | decisão LLM=APROVAR
+  [729] avaliação 1/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 16, 17] | decisão LLM=REVISAR
+  [707] avaliação 1/4 (origem: llm): 4 problema(s) de código | critérios ativos=[1, 2, 3, 4, 5, 6, 7, 9, 15, 18, 19] | decisão LLM=REVISAR
+  [700] avaliação 3/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 11, 15] | decisão LLM=APROVAR
+  [690] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [690] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=690: histórico salvo em data/loop_correcao_v2/690.json
+[loop] question_id=743: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [704] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [704] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=704: histórico salvo em data/loop_correcao_v2/704.json
+[loop] question_id=753: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [729] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 16] | decisão LLM=REVISAR
+  [743] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 11, 17] | decisão LLM=REVISAR
+  [700] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 15] | decisão LLM=APROVAR
+  [700] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=700: histórico salvo em data/loop_correcao_v2/700.json
+[loop] question_id=767: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [707] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[15] | decisão LLM=APROVAR
+  [753] avaliação 1/4 (origem: llm): 4 problema(s) de código | critérios ativos=[1, 3, 4, 5, 6, 7, 9, 15, 18, 19] | decisão LLM=REVISAR
+  [767] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[6, 7, 11, 17] | decisão LLM=REVISAR
+  [743] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [743] sem problemas remanescentes — ciclo encerrado na avaliação 2
+[loop] question_id=743: histórico salvo em data/loop_correcao_v2/743.json
+[loop] question_id=777: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [729] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 16] | decisão LLM=REVISAR
+  [707] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[1, 3, 4, 7, 15, 17] | decisão LLM=REVISAR
+  [753] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[15, 19] | decisão LLM=APROVAR
+  [777] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 15, 16, 17] | decisão LLM=REVISAR
+  [729] avaliação 4/4 (origem: erro): 0 problema(s) de código | critérios ativos=[] | decisão LLM=N/D
+  [729] sem problemas remanescentes — ciclo encerrado na avaliação 4
+[loop] question_id=729: histórico salvo em data/loop_correcao_v2/729.json
+[loop] question_id=787: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [767] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[6, 17] | decisão LLM=REVISAR
+  [707] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[15] | decisão LLM=APROVAR
+  [707] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=707: histórico salvo em data/loop_correcao_v2/707.json
+[loop] question_id=792: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [777] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[15, 16] | decisão LLM=APROVAR
+  [753] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 15] | decisão LLM=REVISAR
+  [787] avaliação 1/4 (origem: llm): 4 problema(s) de código | critérios ativos=[7, 9, 17, 19] | decisão LLM=APROVAR
+  [767] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [767] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=767: histórico salvo em data/loop_correcao_v2/767.json
+[loop] question_id=794: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [792] avaliação 1/4 (origem: llm): 6 problema(s) de código | critérios ativos=[7, 12, 15, 16, 17, 19] | decisão LLM=REVISAR
+  [777] avaliação 3/4 (origem: llm): 2 problema(s) de código | critérios ativos=[15, 16] | decisão LLM=APROVAR
+  [787] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[1, 3, 4, 7, 15, 16, 17] | decisão LLM=REVISAR
+  [753] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[15, 17] | decisão LLM=APROVAR
+  [753] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=753: histórico salvo em data/loop_correcao_v2/753.json
+[loop] question_id=801: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [794] avaliação 1/4 (origem: llm): 4 problema(s) de código | critérios ativos=[6, 7, 15, 17, 19] | decisão LLM=REVISAR
+  [792] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[15] | decisão LLM=APROVAR
+  [777] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[15, 16] | decisão LLM=APROVAR
+  [777] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=777: histórico salvo em data/loop_correcao_v2/777.json
+[loop] question_id=808: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [801] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[9, 17, 19] | decisão LLM=REVISAR
+  [794] avaliação 2/4 (origem: llm): 2 problema(s) de código | critérios ativos=[6, 15] | decisão LLM=APROVAR
+  [787] avaliação 3/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=APROVAR
+  [808] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+  [792] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [792] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=792: histórico salvo em data/loop_correcao_v2/792.json
+[loop] question_id=818: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [801] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[9] | decisão LLM=APROVAR
+  [794] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[15] | decisão LLM=APROVAR
+  [818] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[7, 17, 19] | decisão LLM=REVISAR
+  [787] avaliação 4/4 (origem: llm): 2 problema(s) de código | critérios ativos=[1, 3, 4, 7, 15, 16, 17] | decisão LLM=REVISAR
+  [787] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=787: histórico salvo em data/loop_correcao_v2/787.json
+[loop] question_id=827: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [808] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [808] sem problemas remanescentes — ciclo encerrado na avaliação 2
+[loop] question_id=808: histórico salvo em data/loop_correcao_v2/808.json
+[loop] question_id=840: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [801] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [801] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=801: histórico salvo em data/loop_correcao_v2/801.json
+[loop] question_id=844: iniciando ciclo de até 3 correção(ões) (4 avaliação(ões)) | avaliação inicial: nenhuma (será avaliado pela LLM)
+  [794] avaliação 4/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [794] sem problemas remanescentes — ciclo encerrado na avaliação 4
+[loop] question_id=794: histórico salvo em data/loop_correcao_v2/794.json
+  [827] avaliação 1/4 (origem: llm): 3 problema(s) de código | critérios ativos=[7, 11, 17, 19] | decisão LLM=REVISAR
+  [840] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[5, 17, 19] | decisão LLM=REVISAR
+  [818] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[1, 3, 4, 7, 15, 16] | decisão LLM=REVISAR
+  [844] avaliação 1/4 (origem: llm): 2 problema(s) de código | critérios ativos=[11, 17, 19] | decisão LLM=REVISAR
+  [840] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[5] | decisão LLM=APROVAR
+  [827] avaliação 2/4 (origem: llm): 1 problema(s) de código | critérios ativos=[7, 17] | decisão LLM=REVISAR
+  [818] avaliação 3/4 (origem: llm): 1 problema(s) de código | critérios ativos=[19] | decisão LLM=APROVAR
+  [844] avaliação 2/4 (origem: llm): 0 problema(s) de código | critérios ativos=[5, 6, 7, 9] | decisão LLM=REVISAR
+  [840] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [840] sem problemas remanescentes — ciclo encerrado na avaliação 3
+[loop] question_id=840: histórico salvo em data/loop_correcao_v2/840.json
+  [827] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[7] | decisão LLM=REVISAR
+  [818] avaliação 4/4 (origem: llm): 0 problema(s) de código | critérios ativos=[] | decisão LLM=APROVAR
+  [818] sem problemas remanescentes — ciclo encerrado na avaliação 4
+[loop] question_id=818: histórico salvo em data/loop_correcao_v2/818.json
+  [844] avaliação 3/4 (origem: llm): 0 problema(s) de código | critérios ativos=[5, 6, 7, 9] | decisão LLM=REVISAR
+  [827] avaliação 4/4 (origem: llm): 0 problema(s) de código | critérios ativos=[5, 6, 7, 9] | decisão LLM=REVISAR
+  [827] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=827: histórico salvo em data/loop_correcao_v2/827.json
+  [844] avaliação 4/4 (origem: llm): 1 problema(s) de código | critérios ativos=[19] | decisão LLM=APROVAR
+  [844] limite de 3 correção(ões) atingido, ainda com problema(s)
+[loop] question_id=844: histórico salvo em data/loop_correcao_v2/844.json
+[loop] resumo do lote salvo em data/loop_correcao_v2/_resumo_lote.csv
+
+[rodar_top100] resumo final:
+status_final
+LIMITE_RODADAS_ATINGIDO    62
+APROVADO                   38
+[rodar_top100] detalhes por item em data/loop_correcao_v2

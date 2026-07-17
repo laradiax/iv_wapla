@@ -1,0 +1,101 @@
+﻿question_id,question_type,discipline,n_avaliacoes,n_correcoes,status_final,n_melhorias_inicial,n_melhorias_final,criterios_iniciais,criterios_finais,criterios_resolvidos,criterios_novos_no_final,n_criterios_resolvidos,taxa_resolucao
+2,Afirmação Incompleta,educacao de jovens e adultos,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[7, 15, 16, 17]","[15, 16]","[7, 17]",[],2,0.5
+22,Múltipla Escolha Simples,"avaliacao, controle e regulacao no sus",4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[9, 11, 19]","[9, 17]","[11, 19]",[17],2,0.6666666666666666
+26,Afirmação Incompleta,geografia economica,4,3,LIMITE_RODADAS_ATINGIDO,3,1,"[12, 16, 17, 19]",[16],"[12, 17, 19]",[],3,0.75
+32,Múltipla Escolha Simples,arte contemporanea,2,1,APROVADO,1,0,"[7, 11, 17]",[],"[7, 11, 17]",[],3,1.0
+36,Múltipla Escolha Simples,arte contemporanea,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[9, 17, 19]","[9, 17]",[19],[],1,0.3333333333333333
+37,Múltipla Escolha Simples,estetica facial aplicada,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[9, 17, 19]","[9, 17]",[19],[],1,0.3333333333333333
+39,Múltipla Escolha Simples,geometria espacial,3,2,APROVADO,4,0,"[6, 7, 11, 17, 19]",[],"[6, 7, 11, 17, 19]",[],5,1.0
+56,Múltipla Escolha Simples,quimica organica,4,3,LIMITE_RODADAS_ATINGIDO,3,1,"[6, 17, 19]",[17],"[6, 19]",[],2,0.6666666666666666
+62,Múltipla Escolha Simples,estruturas algebricas,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[6, 10, 19]","[6, 10, 17]",[19],[17],1,0.3333333333333333
+63,Afirmação Incompleta,fisioterapia dermatofuncional,4,3,APROVADO,2,0,"[6, 19]",[],"[6, 19]",[],2,1.0
+66,Múltipla Escolha Simples,quimica organica,4,3,LIMITE_RODADAS_ATINGIDO,4,1,"[6, 9, 17, 19]",[9],"[6, 17, 19]",[],3,0.75
+69,Afirmação Incompleta,fisioterapia dermatofuncional,2,1,APROVADO,1,0,[19],[],[19],[],1,1.0
+74,Afirmação Incompleta,morfossintaxe da lingua inglesa,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[16, 17, 19]",[16],"[17, 19]",[],2,0.6666666666666666
+78,Múltipla Escolha Simples,arte contemporanea,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[9, 17, 19]","[9, 17]",[19],[],1,0.3333333333333333
+85,Múltipla Escolha Simples,metodologias do ensino de linguas estrangeiras,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[7, 17, 19]","[7, 17]",[19],[],1,0.3333333333333333
+86,Múltipla Escolha Simples,educacao de jovens e adultos,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[7, 11, 19]","[6, 7, 17]","[11, 19]","[6, 17]",2,0.6666666666666666
+93,Múltipla Escolha Simples,geografia economica,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[6, 7, 11, 17]","[6, 7, 17]",[11],[],1,0.25
+98,Afirmação Incompleta,conexao sem barreiras em saude,4,3,LIMITE_RODADAS_ATINGIDO,3,1,"[9, 17, 19]",[9],"[17, 19]",[],2,0.6666666666666666
+106,Afirmação Incompleta,morfossintaxe da lingua inglesa,4,3,APROVADO,2,0,"[15, 17, 19]",[],"[15, 17, 19]",[],3,1.0
+109,Múltipla Escolha Simples,calculo diferencial e integral iii,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[9, 17, 19]","[9, 17]",[19],[],1,0.3333333333333333
+117,Múltipla Escolha Simples,educacao de jovens e adultos,4,3,LIMITE_RODADAS_ATINGIDO,3,0,"[7, 11, 19]",[],"[7, 11, 19]",[],3,1.0
+118,Afirmação Incompleta,morfossintaxe da lingua inglesa,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[6, 7, 9, 17]","[6, 9]","[7, 17]",[],2,0.5
+122,Afirmação Incompleta,quimica organica,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[3, 17, 19]",[3],"[17, 19]",[],2,0.6666666666666666
+123,Afirmação Incompleta,arte contemporanea,3,2,APROVADO,2,0,"[9, 19]",[],"[9, 19]",[],2,1.0
+131,Múltipla Escolha Simples,microbiologia e imunologia,4,3,APROVADO,2,0,"[17, 19]",[],"[17, 19]",[],2,1.0
+132,Afirmação Incompleta,geografia economica,4,3,LIMITE_RODADAS_ATINGIDO,1,1,"[17, 19]",[17],[19],[],1,0.5
+141,Múltipla Escolha Simples,geometria espacial,2,1,APROVADO,3,0,"[7, 11, 19]",[],"[7, 11, 19]",[],3,1.0
+151,Afirmação Incompleta,calculo diferencial e integral iii,2,1,APROVADO,1,0,"[17, 19]",[],"[17, 19]",[],2,1.0
+160,Asserção-Razão,semantica,4,3,LIMITE_RODADAS_ATINGIDO,2,3,"[7, 15, 17, 19]","[15, 18]","[7, 17, 19]",[18],3,0.75
+165,Múltipla Escolha Simples,arte contemporanea,4,3,APROVADO,2,0,"[17, 19]",[],"[17, 19]",[],2,1.0
+167,Afirmação Incompleta,microbiologia e imunologia,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[9, 17, 19]",[9],"[17, 19]",[],2,0.6666666666666666
+171,Afirmação Incompleta,funcionamento da educacao brasileira e politicas publicas,3,2,APROVADO,2,0,"[6, 17, 19]",[],"[6, 17, 19]",[],3,1.0
+184,Múltipla Escolha Simples,calculo diferencial e integral iii,3,2,APROVADO,3,0,"[9, 11, 17, 19]",[],"[9, 11, 17, 19]",[],4,1.0
+186,Múltipla Escolha Simples,calculo diferencial e integral iii,4,3,LIMITE_RODADAS_ATINGIDO,5,4,"[2, 3, 11, 15, 17, 19]","[2, 3, 15]","[11, 17, 19]",[],3,0.5
+224,Múltipla Escolha Simples,semantica,3,2,APROVADO,3,0,"[7, 9, 11]",[],"[7, 9, 11]",[],3,1.0
+227,Afirmação Incompleta,educacao de jovens e adultos,2,1,APROVADO,2,0,"[7, 12, 17, 19]",[],"[7, 12, 17, 19]",[],4,1.0
+228,Afirmação Incompleta,geografia economica,3,2,APROVADO,1,0,[17],[],[17],[],1,1.0
+229,Múltipla Escolha Simples,calculo diferencial e integral iii,3,2,APROVADO,2,0,"[11, 17, 19]",[],"[11, 17, 19]",[],3,1.0
+238,Afirmação Incompleta,morfossintaxe da lingua inglesa,3,2,APROVADO,2,0,"[12, 19]",[],"[12, 19]",[],2,1.0
+241,Múltipla Escolha Simples,arte contemporanea,4,3,LIMITE_RODADAS_ATINGIDO,2,2,"[9, 17]","[9, 17]",[],[],0,0.0
+251,Afirmação Incompleta,morfossintaxe da lingua inglesa,4,3,LIMITE_RODADAS_ATINGIDO,3,0,"[12, 15, 17, 19]","[5, 6, 7, 9]","[12, 15, 17, 19]","[5, 6, 7, 9]",4,1.0
+252,Afirmação Incompleta,geometria espacial,4,3,LIMITE_RODADAS_ATINGIDO,4,0,"[5, 6, 12, 17, 19]",[7],"[5, 6, 12, 17, 19]",[7],5,1.0
+260,Múltipla Escolha Simples,calculo diferencial e integral iii,4,3,APROVADO,2,0,"[11, 17, 19]",[],"[11, 17, 19]",[],3,1.0
+288,Afirmação Incompleta,calculo diferencial e integral iii,4,3,LIMITE_RODADAS_ATINGIDO,3,1,"[6, 7, 9, 17, 19]","[6, 7]","[9, 17, 19]",[],3,0.6
+289,Asserção-Razão,geometria espacial,4,3,LIMITE_RODADAS_ATINGIDO,2,3,"[15, 17, 19]","[6, 15, 18]","[17, 19]","[6, 18]",2,0.6666666666666666
+312,Afirmação Incompleta,semantica,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[12, 17, 19]",[17],"[12, 19]",[],2,0.6666666666666666
+322,Afirmação Incompleta,educacao de jovens e adultos,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[17, 19]",[17],[19],[],1,0.5
+327,Afirmação Incompleta,morfossintaxe da lingua inglesa,4,3,LIMITE_RODADAS_ATINGIDO,4,2,"[12, 16, 17, 19]","[16, 17]","[12, 19]",[],2,0.5
+331,Múltipla Escolha Simples,quimica organica,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[9, 17, 19]","[9, 17]",[19],[],1,0.3333333333333333
+334,Múltipla Escolha Simples,fisioterapia dermatofuncional,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[9, 17, 19]","[9, 17]",[19],[],1,0.3333333333333333
+343,Múltipla Escolha Simples,geografia economica,3,2,APROVADO,2,0,"[7, 11, 17]",[],"[7, 11, 17]",[],3,1.0
+356,Múltipla Escolha Simples,semantica,4,3,APROVADO,3,0,"[7, 9, 11, 17]",[],"[7, 9, 11, 17]",[],4,1.0
+360,Múltipla Escolha Simples,microbiologia e imunologia,4,3,LIMITE_RODADAS_ATINGIDO,3,1,"[6, 17, 19]",[17],"[6, 19]",[],2,0.6666666666666666
+362,Afirmação Incompleta,geometria espacial,3,2,APROVADO,2,0,"[5, 17, 19]",[],"[5, 17, 19]",[],3,1.0
+364,Múltipla Escolha Simples,geometria espacial,4,3,LIMITE_RODADAS_ATINGIDO,3,1,"[6, 7, 11, 17, 19]","[7, 17]","[6, 11, 19]",[],3,0.6
+374,Múltipla Escolha Simples,geografia economica,4,3,LIMITE_RODADAS_ATINGIDO,3,1,"[6, 7, 9, 11, 17, 19]",[9],"[6, 7, 11, 17, 19]",[],5,0.8333333333333334
+405,Múltipla Escolha Simples,geometria espacial,3,2,APROVADO,3,0,"[7, 11, 19]",[],"[7, 11, 19]",[],3,1.0
+418,Múltipla Escolha Simples,semantica,4,3,APROVADO,3,0,"[7, 11, 19]",[],"[7, 11, 19]",[],3,1.0
+438,Múltipla Escolha Simples,geografia economica,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[17, 19]","[7, 9]","[17, 19]","[7, 9]",2,1.0
+457,Afirmação Incompleta,semantica,4,3,LIMITE_RODADAS_ATINGIDO,3,1,"[7, 16, 17, 19]",[16],"[7, 17, 19]",[],3,0.75
+470,Múltipla Escolha Simples,morfossintaxe da lingua inglesa,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[7, 11, 12, 17]","[5, 6, 7, 9, 17]","[11, 12]","[5, 6, 9]",2,0.5
+483,Múltipla Escolha Simples,geometria espacial,3,2,APROVADO,2,0,"[11, 17, 19]",[],"[11, 17, 19]",[],3,1.0
+489,Afirmação Incompleta,educacao de jovens e adultos,4,3,LIMITE_RODADAS_ATINGIDO,3,1,"[7, 9, 16, 17, 19]",[9],"[7, 16, 17, 19]",[],4,0.8
+500,Afirmação Incompleta,analise de investimentos e fontes de financiamento,4,3,LIMITE_RODADAS_ATINGIDO,3,1,"[7, 9, 17]",[9],"[7, 17]",[],2,0.6666666666666666
+503,Múltipla Escolha Simples,semantica,3,2,APROVADO,2,0,"[7, 11, 17]",[],"[7, 11, 17]",[],3,1.0
+512,Afirmação Incompleta,arte contemporanea,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[5, 6, 7, 9, 16, 17, 19]",[16],"[5, 6, 7, 9, 17, 19]",[],6,0.8571428571428571
+519,Afirmação Incompleta,geografia economica,4,3,LIMITE_RODADAS_ATINGIDO,3,1,"[7, 17, 19]",[17],"[7, 19]",[],2,0.6666666666666666
+526,Afirmação Incompleta,morfossintaxe da lingua inglesa,3,2,APROVADO,2,0,"[7, 17, 19]",[],"[7, 17, 19]",[],3,1.0
+536,Afirmação Incompleta,arte contemporanea,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[12, 17, 19]",[16],"[12, 17, 19]",[16],3,1.0
+540,Afirmação Incompleta,educacao de jovens e adultos,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[6, 7, 9]",[9],"[6, 7]",[],2,0.6666666666666666
+567,Múltipla Escolha Simples,calculo diferencial e integral iii,3,2,APROVADO,2,0,"[11, 17, 19]",[],"[11, 17, 19]",[],3,1.0
+568,Afirmação Incompleta,semantica,4,3,LIMITE_RODADAS_ATINGIDO,1,1,"[7, 17]",[17],[7],[],1,0.5
+589,Múltipla Escolha Simples,educacao de jovens e adultos,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[7, 9, 11]",[9],"[7, 11]",[],2,0.6666666666666666
+591,Afirmação Incompleta,educacao de jovens e adultos,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[7, 17, 19]","[5, 6, 7, 9, 17]",[19],"[5, 6, 9]",1,0.3333333333333333
+601,Afirmação Incompleta,arte contemporanea,2,1,APROVADO,2,0,"[12, 17, 19]",[],"[12, 17, 19]",[],3,1.0
+615,Múltipla Escolha Simples,geografia economica,4,3,LIMITE_RODADAS_ATINGIDO,4,2,"[6, 7, 9, 11, 17]","[17, 19]","[6, 7, 9, 11]",[19],4,0.8
+620,Afirmação Incompleta,calculo diferencial e integral iii,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[7, 9, 17, 19]",[9],"[7, 17, 19]",[],3,0.75
+623,Afirmação Incompleta,geografia economica,4,3,LIMITE_RODADAS_ATINGIDO,3,0,"[5, 6, 7, 9, 15, 16, 17, 19]","[1, 3, 4, 6, 7, 9]","[5, 15, 16, 17, 19]","[1, 3, 4]",5,0.625
+645,Múltipla Escolha Simples,fisioterapia dermatofuncional,4,3,LIMITE_RODADAS_ATINGIDO,3,1,"[9, 17, 19]",[9],"[17, 19]",[],2,0.6666666666666666
+651,Múltipla Escolha Simples,arte contemporanea,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[9, 17, 19]","[9, 17]",[19],[],1,0.3333333333333333
+669,Múltipla Escolha Simples,arte contemporanea,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[9, 17, 19]","[9, 17]",[19],[],1,0.3333333333333333
+670,Afirmação Incompleta,ensino e aprendizagem da lingua portuguesa,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[9, 19]",[9],[19],[],1,0.5
+690,Múltipla Escolha Simples,geografia economica,4,3,LIMITE_RODADAS_ATINGIDO,4,1,"[6, 7, 17, 19]",[9],"[6, 7, 17, 19]",[9],4,1.0
+700,Múltipla Escolha Simples,arte contemporanea,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[6, 11, 15, 17]","[6, 15]","[11, 17]",[],2,0.5
+704,Múltipla Escolha Simples,calculo diferencial e integral iii,3,2,APROVADO,3,0,"[11, 15, 17, 19]",[],"[11, 15, 17, 19]",[],4,1.0
+707,Múltipla Escolha Complexa,calculo diferencial e integral ii,4,3,LIMITE_RODADAS_ATINGIDO,4,1,"[1, 2, 3, 4, 5, 6, 7, 9, 15, 18, 19]",[15],"[1, 2, 3, 4, 5, 6, 7, 9, 18, 19]",[],10,0.9090909090909091
+729,Afirmação Incompleta,semantica,4,3,APROVADO,1,0,"[7, 16, 17]",[],"[7, 16, 17]",[],3,1.0
+743,Múltipla Escolha Simples,semantica,2,1,APROVADO,2,0,"[7, 11, 17]",[],"[7, 11, 17]",[],3,1.0
+753,Múltipla Escolha Complexa,ensino e aprendizagem da lingua portuguesa,4,3,LIMITE_RODADAS_ATINGIDO,4,2,"[1, 3, 4, 5, 6, 7, 9, 15, 18, 19]","[15, 17]","[1, 3, 4, 5, 6, 7, 9, 18, 19]",[17],9,0.9
+767,Múltipla Escolha Simples,semantica,3,2,APROVADO,3,0,"[6, 7, 11, 17]",[],"[6, 7, 11, 17]",[],4,1.0
+777,Afirmação Incompleta,morfossintaxe da lingua inglesa,4,3,LIMITE_RODADAS_ATINGIDO,3,2,"[7, 15, 16, 17]","[15, 16]","[7, 17]",[],2,0.5
+787,Múltipla Escolha Simples,analise de investimentos e fontes de financiamento,4,3,LIMITE_RODADAS_ATINGIDO,4,2,"[7, 9, 17, 19]","[1, 3, 4, 7, 15, 16, 17]","[9, 19]","[1, 3, 4, 15, 16]",2,0.5
+792,Afirmação Incompleta,semantica,3,2,APROVADO,6,0,"[7, 12, 15, 16, 17, 19]",[],"[7, 12, 15, 16, 17, 19]",[],6,1.0
+794,Afirmação Incompleta,educacao de jovens e adultos,4,3,APROVADO,4,0,"[6, 7, 15, 17, 19]",[],"[6, 7, 15, 17, 19]",[],5,1.0
+801,Afirmação Incompleta,calculo diferencial e integral iii,3,2,APROVADO,2,0,"[9, 17, 19]",[],"[9, 17, 19]",[],3,1.0
+808,Múltipla Escolha Simples,calculo diferencial e integral iii,2,1,APROVADO,2,0,"[11, 17, 19]",[],"[11, 17, 19]",[],3,1.0
+818,Afirmação Incompleta,geografia economica,4,3,APROVADO,2,0,"[7, 17, 19]",[],"[7, 17, 19]",[],3,1.0
+827,Múltipla Escolha Simples,geometria espacial,4,3,LIMITE_RODADAS_ATINGIDO,3,0,"[7, 11, 17, 19]","[5, 6, 7, 9]","[11, 17, 19]","[5, 6, 9]",3,0.75
+840,Afirmação Incompleta,geometria espacial,3,2,APROVADO,2,0,"[5, 17, 19]",[],"[5, 17, 19]",[],3,1.0
+844,Múltipla Escolha Simples,calculo diferencial e integral iii,4,3,LIMITE_RODADAS_ATINGIDO,2,1,"[11, 17, 19]",[19],"[11, 17]",[],2,0.6666666666666666
