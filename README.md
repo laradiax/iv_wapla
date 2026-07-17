@@ -34,7 +34,7 @@ base de itens → diagnóstico → seleção → correção iterativa (loop) →
 
 ## Dados
 
-O diretório `data/` contém a base de entrada (`rejected_questions.csv`), os caches de classificação/avaliação (`text_base_classification_results.csv`, `analises_maritaca.csv`) e a seleção para refino (`itens_para_refino_top100.csv`) usada pelo CLI.
+O diretório `data/` contém a base de entrada (`rejected_questions.csv`), os caches de classificação/avaliação (`text_base_classification_results.csv`, `analises_maritaca.csv`), a seleção para refino (`itens_para_refino_top100.csv`) usada pelo CLI e os 100 itens finais (`itens_finais_100.csv`).
 
 Como o processo de correção pode ser executado com diferentes modelos, cada corrida grava seu diagnóstico e histórico de correção numa subpasta nomeada pelo modelo/versão usado:
 
